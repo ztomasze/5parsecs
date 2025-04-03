@@ -7,12 +7,13 @@
 |     | Sp                             |       |       | <strong style="color: green;">+2*</strong> |                                        |     | Shotgun      |
 |     | Lt Sp                          |       |       | <strong style="color: green;">+3*</strong> |                                        |     |              |
 
-**Ferocious:** +1 to Brawling rolls when initiating combat.
+**Ferocious:** +1 to Brawling rolls when initiating combat.  
 **Aggro:** If Hit by a shot and surviving, immediately move 1” towards the shooter.
 
 | Weapon       | Range | Shots | Damage | Quality  |
 | ------------ | ----- | ----- | ------ | -------- |
 | Scrap pistol | 7"    | 1     | 0      | Pistol   |
+| Scrap blade  | -     | -     | 0      | Melee    |
 | Shotgun      | 8"    | 1     | 0      | Critical |
 
 ### Battle Conditions
