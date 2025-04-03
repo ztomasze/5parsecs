@@ -9,6 +9,7 @@ The order in which planets are visited in the story:
 * [[Thule VI]]
 * [[Brume VIII]]
 * [[Tattoon II]]
+* [[space station]]
 
 Mentioned but not visited:
 * [[Garthon 4]]
