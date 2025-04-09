@@ -1,23 +1,23 @@
 ## Current Battle
 
-| #   | Enemy                          | Panic | Speed | CS                                         | Tough                                  | AI  | Weapons      |
-| --- | ------------------------------ | ----- | ----- | ------------------------------------------ | -------------------------------------- | --- | ------------ |
-| ?   | **Space Hulk Psycho** (reaver) | 1     | 6"    | <strong style="color: green;">+2*</strong> | <strong style="color: red;">5</strong> | R   | Scrap pistol |
-|     | Lt                             |       |       | <strong style="color: green;">+3*</strong> |                                        |     |              |
-|     | Sp                             |       |       | <strong style="color: green;">+2*</strong> |                                        |     | Shotgun      |
-|     | Lt Sp                          |       |       | <strong style="color: green;">+3*</strong> |                                        |     |              |
+| #   | Enemy        | Panic | Speed | CS                                         | Tough                                  | AI  | Weapons           |
+| --- | ------------ | ----- | ----- | ------------------------------------------ | -------------------------------------- | --- | ----------------- |
+| ?   | **Distorts** | 0     | 4"    | <strong style="color: green;">+1*</strong> | <strong style="color: red;">5</strong> | B   | Touch (Damage +3) |
+|     | Lt           |       |       | <strong style="color: green;">+2*</strong> |                                        |     |                   |
+|     | Sp           |       |       |                                            |                                        |     |                   |
+|     | Lt Sp        |       |       |                                            |                                        |     |                   |
 
-**Ferocious:** +1 to Brawling rolls when initiating combat.  
-**Aggro:** If Hit by a shot and surviving, immediately move 1” towards the shooter.
+**Stubborn:** They ignore the first casualty when making a Morale check.
+**Shimmer:** Move through terrain and solid obstacles.
+**When slain**, roll 1D6. On a 5-6, another Distort is placed 1D6” further away.
 
-| Weapon       | Range | Shots | Damage | Quality  |
-| ------------ | ----- | ----- | ------ | -------- |
-| Scrap pistol | 7"    | 1     | 0      | Pistol   |
-| Scrap blade  | -     | -     | 0      | Melee    |
-| Shotgun      | 8"    | 1     | 0      | Critical |
+| Weapon | Range | Shots | Damage | Quality |
+| ------ | ----- | ----- | ------ | ------- |
+
 
 ### Battle Conditions
 
+Spawning
 
 
 ## Minutes
