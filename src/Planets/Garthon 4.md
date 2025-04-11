@@ -1,1 +1,0 @@
-* Known for sex weasels
