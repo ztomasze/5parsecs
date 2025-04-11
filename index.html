@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="docsify/vue.css"/>
+    <link rel="stylesheet" href="docsify/custom.css"/>
+  </head>
+  <body>
+    <nav>
+        <a href="#/">Home</a>
+        <a href="#/Sessions/Session%20Index">Sessions</a>
+        <a href="#/Planets/Planet%20Index">Planets</a>
+        <a href="#/Whiteboard">Battle Whiteboard</a>
+      </nav>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        auto2top: true,
+        homepage: 'index.md',
+        hideSidebar: true,
+        name: '5 Parsecs',
+        plugins: [
+        function pageTitle(hook, vm) {
+
+            hook.afterEach(function (html) {
+                var anchor = document.URL.split('#')[1];
+                var title = anchor.substring(anchor.lastIndexOf('/') + 1);
+                title = title.replaceAll('%20', ' ');
+                title = (title === '') ? '5 Parsecs: Home' : title; 
+                var h1 = [
+                    '<h1>',
+                    title,
+                    '</h1>',
+                ].join('');
+                return h1 + html;
+            });
+            },
+        ],
+        repo: 'https://github.com/ztomasze/5parsecs',
+        themeColor: '#0066cc',
+      };
+    </script>
+    <script src="docsify/docsify@4"></script>
+    <script src="docsify/docsify-wikilink@1"></script>
+  </body>
+</html>
