@@ -13,3 +13,4 @@ The order in which planets are visited in the story:
 
 Mentioned but not visited:
 * [[Garthon 4]]
+* [[Taldari]]
