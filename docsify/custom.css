@@ -2,3 +2,7 @@
   font-weight: bold;
   color: black;
 }
+
+.markdown-section em {
+  color: #2c3e50;
+}

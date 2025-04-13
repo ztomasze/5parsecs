@@ -5,6 +5,9 @@
 * **Invasion Risk** - +1 to invasion rolls 
 * ***Unity Patrol*** - Cannot be invaded
 
+**Settlements & Regions**
+* Solthurum (settlement) - ([[../Sessions/2024-05-14|2024-05-14]])
+
 | Patron | Type | Benefit | Notes |
 | ------ | ---- | ------- | ----- |
 |        |      |         |       |
