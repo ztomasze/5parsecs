@@ -15,7 +15,7 @@
 * [[2024-06-04]] - **Turn 12:** We learn about Teal Division; to [[../Planets/Goldeng 8|Goldeng 8]]; a job to deliver a young rhinopanther.
 * [[2024-07-09]] - **Turn 13:** Jone joins the team; a job to install a sensor tower power cell in the marshes.
 * [[2024-07-16]] - **Turn 14:** Captain gets political; a job to capture a krorg cub.
-* [[2024-07-24]] - **Turn 15:** The crew has an adventuresome evening; Ben joins the crew; a job from Pawn.
+* [[2024-07-24]] - **Turn 15:** The crew has an adventuresome evening; Ben-E joins the crew; a job from Pawn.
 * [[2024-07-30]] - **Turn 16:** To [[../Planets/Trellium XII|Trellium XII]]; our arranged contact with Pawn is interrupted.
 * [[2024-08-14]] - **Turn 17:** A job for local civilian defense to take out a K'Erin-trained band of feral mercs.
 * [[2024-09-04]] - ***Turn 18*:**
