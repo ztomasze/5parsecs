@@ -6,6 +6,8 @@
 * **Null zone** - No teleportation device of any type works. 
 * **Overgrown** - When setting up the table, you must add 1d6+2 individual plant features or 1d3 areas of vegetation (roughly 3-5” across) 
 
+Located in the Balox Nebula ([[../Sessions/2024-07-30|2024-07-30]]).
+
 | Patron                | Type               | Benefit    | Notes                                             |
 | --------------------- | ------------------ | ---------- | ------------------------------------------------- |
 | *(Eldar Frankenmuir)* | Wealthy Individual | Persistent | Any time job ("dragon" from turn 17)              |

@@ -7,6 +7,7 @@
 
 **Settlements & Regions**
 * Solthurum (settlement) - ([[../Sessions/2024-05-14|2024-05-14]])
+* Kardon dunes (region) - ([[../Sessions/2024-07-24|2024-07-24]])
 
 | Patron | Type | Benefit | Notes |
 | ------ | ---- | ------- | ----- |
