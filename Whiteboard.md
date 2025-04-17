@@ -23,7 +23,7 @@
 * 3 spawn points
 	* Spawns: 2 grunts, random(Lt, Lt Sp, Sp + Test)
 	* Tension mechanic: Start at 0. Roll d6 each turn:
-		* > tension: +1
+		* &gt; tension: +1
 		* <=: Spawn and drop tension by that amount.
 	* Shutdown: Action, Savvy 8+
 
