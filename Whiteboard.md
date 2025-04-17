@@ -18,6 +18,7 @@
 | **Glare sword**    | Brawl | -     | 1      | Melee, Elegant, Piercing |
 | **Hyper blaster**  | 24"   | 3     | 1      | Overheat                 |
 | **Machine pistol** | 6"    | 2     | 0      | Pistol, Focused          |
+
 ### Battle Conditions
 
 * 3 spawn points
