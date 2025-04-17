@@ -2,10 +2,10 @@
 
 | #   | Enemy             | Panic | Speed | CS                                         | Tough                                   | AI  | Weapons                                                                  |
 | --- | ----------------- | ----- | ----- | ------------------------------------------ | --------------------------------------- | --- | ------------------------------------------------------------------------ |
-| 4   | **Test Subject**  | 1     | 5"    | <strong style="color: green;">+1*</strong> | <strong style="color: red;">3</strong>  | T   | Psionics  <br>Beam Pistol                                                |
+| 4   | **Test Subject**  | 1     | 5"    | <strong style="color: green;">+1*</strong> | <strong style="color: red;">3</strong>  | C   | Psionics  <br>Beam Pistol                                                |
 | 5   | **Teal Division** | 0     | 6"    | <strong style="color: green;">+3*</strong> | <strong style="color: red;">5</strong>+ | A   | **6+ Saving Throw**  <br>Machine Pistol                                  |
 | 1   | Lt                |       |       | <strong style="color: green;">+4*</strong> |                                         |     | +Blade                                                                   |
-| 2   | Sp                |       |       | <strong style="color: green;">+3*</strong> |                                         |     | Hyper Blaster                                                            |
+| 2   | Sp                |       |       | <strong style="color: green;">+3*</strong> |                                         | T   | Hyper Blaster                                                            |
 | 1   | Lt Sp             |       |       | <strong style="color: green;">+4*</strong> |                                         |     |                                                                          |
 | 1   | **Commander**     |       | 6"    | <strong style="color: green;">+4*</strong> | <strong style="color: red;">5</strong>+ | A   | Machine Pistol  <br>Glare Sword  <br>**5+ Saving Throw** <br>**Luck:** 2 |
 

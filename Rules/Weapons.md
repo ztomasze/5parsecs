@@ -19,7 +19,7 @@ Our authoritative weapons list. Starts with the Dramatic Weapons table from the 
 | **Glare sword**         | Brawl | -     | 1      | Melee, Elegant, Piercing    |
 | **Hand cannon**         | 6"    | 1     | 2      | Pistol                      |
 | **Hand flamer**         | 8"    | -     | 1      | Area, Burn                  |
-| **Hand gun**            | 9"    | 1     | 0      | Pistol                      |
+| **Hand gun**            | *6"*  | 1     | 0      | Pistol                      |
 | **Hand laser**          | 9"    | 1     | 0      | Pistol, Snap Shot           |
 | **Hold out pistol**     | 4"    | 1     | 0      | Melee                       |
 | **Hunting rifle**       | 30"   | 1     | 1      | Heavy, Critical             |
@@ -33,7 +33,7 @@ Our authoritative weapons list. Starts with the Dramatic Weapons table from the 
 | **Power claw**          | Brawl | -     | 3      | Melee, Clumsy, Piercing     |
 | **Rattle gun**          | 24"   | 3     | 0      | Heavy                       |
 | **Ripper sword**        | Brawl | -     | 2      | Melee                       |
-| **Scrap pistol**        | 7"    | 1     | 0      | Pistol                      |
+| **Scrap pistol**        | *5"*  | 1     | 0      | Pistol                      |
 | **Shatter Axe**         | Brawl | -     | 3      | Melee, Clumsy, Shockwave    |
 | **Shell gun**           | 18"   | -     | 0      | Area                        |
 | **Shotgun**             | 8"    | 1     | 1      | Critical                    |
