@@ -18,15 +18,17 @@
 | **Glare sword**    | Brawl | -     | 1      | Melee, Elegant, Piercing |
 | **Hyper blaster**  | 24"   | 3     | 1      | Overheat                 |
 | **Machine pistol** | 6"    | 2     | 0      | Pistol, Focused          |
-
-
 ### Battle Conditions
 
-Spawning
+* 3 spawn points
+	* Spawns: 2 grunts, random(Lt, Lt Sp, Sp + Test)
+	* Tension mechanic: Start at 0. Roll d6 each turn:
+		* > tension: +1
+		* <=: Spawn and drop tension by that amount.
+	* Shutdown: Action, Savvy 8+
 
 #### For Next Time
 * Khanjar: use rage out!
-* 
 
 ## Minutes
 Future reactions idea:
