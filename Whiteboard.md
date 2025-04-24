@@ -36,3 +36,6 @@ Future reactions idea:
 * Can't act fast; can only snap fire
 
 Can shoot 120 degrees with multishot
+
+stim pack: 
+* Remove 

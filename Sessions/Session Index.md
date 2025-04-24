@@ -18,11 +18,12 @@
 * [[2024-07-24]] - **Turn 15:** The crew has an adventuresome evening; Ben-E joins the crew; a job from Pawn.
 * [[2024-07-30]] - **Turn 16:** To [[../Planets/Trellium XII|Trellium XII]]; our arranged contact with Pawn is interrupted.
 * [[2024-08-14]] - **Turn 17:** A job for local civilian defense to take out a K'Erin-trained band of feral mercs.
-* [[2024-09-04]] - ***Turn 18*:**
-* [[2024-09-18]] - **Turn 19:**
-* [[2024-09-25]] - **Turn 19:**
+* [[2024-09-04]] - **Turn 18:** An enigmatic job from Pawn.
+* [[2024-09-18]] - **Turn 19:** Captain leads the team into crawler-infested tunnels to reach Teal Division.
+* [[2024-09-25]] - **Turn 19b:** 
 * [[2024-10-02]] - **Turn 20:**
 * [[2024-10-09]] - **Turn 21:**
 * [[2024-11-26]] - **Turn 22:**
+* [[2024-12-04]] - **Turn 23:**
 * ... 
 
