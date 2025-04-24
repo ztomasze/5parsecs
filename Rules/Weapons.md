@@ -1,4 +1,4 @@
-Our authoritative weapons list. Starts with the Dramatic Weapons table from the Freelancer Handbook, plus various *house rulings*.
+Our authoritative weapons list. New weapons in *italics*.
 
 | WEAPON                        | RANGE | SHOTS | DAMAGE | TRAITS                      |
 | ----------------------------- | ----- | ----- | ------ | --------------------------- |
@@ -23,21 +23,21 @@ Our authoritative weapons list. Starts with the Dramatic Weapons table from the 
 | **Hand gun**                  | 6"    | 1     | 0      | Pistol                      |
 | **Hand laser**                | 6"    | 1     | 0      | Pistol, Snap Shot           |
 | **Hold out pistol**           | 4"    | 1     | 0      | Melee                       |
-| **Hunting rifle**             | 30"   | 1     | 1      | Heavy, Critical             |
-| **Hyper blaster**             | 24"   | 3     | 1      | Overheat                    |
-| **Infantry laser**            | 30"   | 1     | 0      | Snap Shot                   |
+| **Hunting rifle**             | 36"   | 1     | 1      | Heavy, Critical             |
+| **Hyper blaster**             | 20"   | 3     | 1      | Focused, Overheat           |
+| **Infantry laser**            | 36"   | 1     | 0      | Critical, Snap Shot         |
 | **Machine pistol**            | 6"    | 2     | 0      | Pistol, Focused             |
-| **Marksman’s rifle**          | 36"   | 1     | 0      | Critical                    |
-| **Military rifle**            | 24"   | 1     | 0      | --                          |
-| **Needle rifle**              | 18"   | 1     | 0      | Critical, Piercing          |
-| **Plasma rifle**              | 20"   | 2     | 1      | Focused, Piercing, Overheat |
+| **Marksman’s rifle**          | 36"   | 1     | 1      | Critical                    |
+| **Military rifle**            | 20"   | 1     | 0      | --                          |
+| **Needle rifle**              | 20"   | 1     | 0      | Critical, Piercing          |
+| **Plasma rifle**              | 15"   | 2     | 1      | Focused, Piercing, Overheat |
 | **Power claw**                | Brawl | -     | 3      | Melee, Clumsy, Piercing     |
-| **Rattle gun**                | 24"   | 3     | 0      | Heavy                       |
+| **Rattle gun**                | 20"   | 3     | 0      | Focused, Heavy              |
 | **Ripper sword**              | Brawl | -     | 2      | Melee                       |
 | **Scrap pistol**              | 5"    | 1     | 0      | Pistol                      |
 | **Shatter Axe**               | Brawl | -     | 3      | Melee, Clumsy, Shockwave    |
-| **Shell gun**                 | 18"   | -     | 0      | Area                        |
-| **Shotgun**                   | 8"    | 1     | 0      | Critical                    |
+| **Shell gun**                 | 15"   | -     | 0      | Area                        |
+| **Shotgun**                   | 8"    | 1     | 0      | Shrapnel                    |
 | **Suppression maul**          | Brawl | -     | 2      | Melee, Stun                 |
 
 ### Traits
@@ -62,6 +62,6 @@ Our authoritative weapons list. Starts with the Dramatic Weapons table from the 
 | ***Snap shot***  | +1 to hit within 6” (Cumulative with Pistol).                                                                                                                                                                               |
 | ***Stun***       | If target is Stunned, place a second Stun marker.                                                                                                                                                                           |
 
-No range incr.
-For Area, Burn, Shrapnel.
+### Range Increments
 
+You can shoot across the board, but the attack is at -1 for each full range increment traversed by the shot.  For example, a Shotgun attack is a made normally at a target up to 8" away, at -1 at 9" away, at -2 at 17" away, and so on.
