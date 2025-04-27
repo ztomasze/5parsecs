@@ -28,6 +28,8 @@ Determined in order of:
 2. real crow-flies distance (such as when obstacles make some opponents harder to reach)
 3. (by Target Selection, below)
 
+AI types that use this: [[Rampaging]], [[Beast]], [[Aggressive]], ([[Defensive]], [[Guardian]])
+
 ##### Line of Fire (LoF)
 
 Generally, move to a hex within movement range that offers:
@@ -37,6 +39,8 @@ Generally, move to a hex within movement range that offers:
 See the specific AIs for tie-breaks beyond that.
 
 Once in a hex that offers LoF to one or more targets, select one as below.
+
+AI types that use this: [[Tactical]], [[Cautious]], ([[Defensive]])
 
 ### Target Selection
 
