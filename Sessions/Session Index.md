@@ -20,7 +20,7 @@
 * [[2024-08-14]] - **Turn 17:** A job for local civilian defense to take out a K'Erin-trained band of feral mercs.
 * [[2024-09-04]] - **Turn 18:** An enigmatic job from Pawn.
 * [[2024-09-18]] - **Turn 19:** Captain leads the team into crawler-infested tunnels to reach Teal Division.
-* [[2024-09-25]] - **Turn 19b:** 
+* [[2024-09-25]] - **Turn 19b:** Twitch and Ben-E don't get along; the crew assaults the Teal Division base.
 * [[2024-10-02]] - **Turn 20:**
 * [[2024-10-09]] - **Turn 21:**
 * [[2024-11-26]] - **Turn 22:**
