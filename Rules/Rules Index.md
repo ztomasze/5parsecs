@@ -1,35 +1,21 @@
+*Follows the same order as the main rule book.*
 
-### Characters
+### Character Creation
 
 
-### Equipment
+### Main Rules (Combat)
 
-* [[Weapons]]
-
-### Combat (Main Rules)
-
-* Terrain
-* Cover - Line of Sight, Cover
-* Movement
-* Actions - move + action + 1 free action. Bonus.  Action is combat or non-combat.
-	* Move
-	* Shoot
-	* Brawl
-	* Non-Combat
-* Injury & Conditions
-	* Hits - Saving Throw, Luck
-	* Stun
-	* Wound
-	* Burning
-* Enemy AI
-	* [[AI Rules]]
-	* [[Rampaging]]
-	* [[Beast]]
-	* [[Aggressive]]
-	* [[Tactical]]
-	* [[Cautious]]
-	* [[Defensive]]
-	* [[Guardian]]
+* [[Main Rules/Terrain|Terrain]]
+* [[Main Rules/Line of Sight and Cover|Line of Sight and Cover]]
+* [[Main Rules/Combat/Actions|Actions]]
+* [[Movement]]
+* [[Main Rules/AI/AI Rules|AI Rules]] - [[Main Rules/AI/Rampaging|Rampaging]], [[Main Rules/AI/Beast|Beast]], [[Main Rules/AI/Aggressive|Aggressive]], [[Main Rules/AI/Tactical|Tactical]], [[Main Rules/AI/Cautious|Cautious]], [[Main Rules/AI/Defensive|Defensive]], [[Main Rules/AI/Guardian|Guardian]] 
+* **Combat**
+	* [[Main Rules/Combat/Shooting|Shooting]], [[Main Rules/Combat/Brawling|Brawling]]
+	* [[Main Rules/Combat/Hit|Hit]], [[Main Rules/Combat/Saving Throw|Saving Throw]], [[Main Rules/Combat/Stun|Stun]], [[Main Rules/Combat/Wound|Wound]]
+	* [[Main Rules/Combat/Luck|Luck]]
+* [[Main Rules/Equipment/Weapons|Weapons]]
+* [[Main Rules/Equipment/Equipment|Equipment]]
 
 ### Campaign
 

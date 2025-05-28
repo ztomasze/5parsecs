@@ -6,3 +6,10 @@
 .markdown-section em {
   color: #2c3e50;
 }
+
+.markdown-section blockquote p {
+  margin-bottom: 0;
+}
+.markdown-section blockquote p + ul {
+  margin-top: 0;
+}

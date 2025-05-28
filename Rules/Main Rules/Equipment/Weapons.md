@@ -12,7 +12,7 @@ Our authoritative weapons list. New weapons in *italics*.
 | **Cling fire gun**            | 8"    | 2     | 1      | Focused, Burn               |
 | **Colony rifle**              | 15"   | 1     | 0      | --                          |
 | **Dazzle grenade**            | 6"    | -     | N/A    | Dazzle, Single-use          |
-| ***Double-barreled shotgun*** | 8"    | 2     | 0      | Shrapnel                    |
+| ***Double-barreled shotgun*** | 8"    | 2     | 0      | Focused, Shrapnel           |
 | **Duelling pistol**           | 6"    | 1     | 0      | Pistol, Critical            |
 | **Flak gun**                  | 8"    | 2     | 1      | Focused, Shrapnel           |
 | **Frakk grenade**             | 6"    | -     | 0      | Area, Single use            |
