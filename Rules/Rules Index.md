@@ -8,7 +8,7 @@
 * [[Main Rules/Terrain|Terrain]]
 * [[Main Rules/Line of Sight and Cover|Line of Sight and Cover]]
 * [[Main Rules/Combat/Actions|Actions]]
-* [[Movement]]
+* [[Main Rules/Movement|Movement]]
 * [[Main Rules/AI/AI Rules|AI Rules]] - [[Main Rules/AI/Rampaging|Rampaging]], [[Main Rules/AI/Beast|Beast]], [[Main Rules/AI/Aggressive|Aggressive]], [[Main Rules/AI/Tactical|Tactical]], [[Main Rules/AI/Cautious|Cautious]], [[Main Rules/AI/Defensive|Defensive]], [[Main Rules/AI/Guardian|Guardian]] 
 * **Combat**
 	* [[Main Rules/Combat/Shooting|Shooting]], [[Main Rules/Combat/Brawling|Brawling]]
