@@ -16,4 +16,4 @@ For Campaign Two:
 		- Lt: 1
 	- Possibly add a unique: 2d6:8+ (except for roving threats)
 * +3 to **Invasion** rolls
-* -[[World Tier]] to **Seize the Initiative** (revisit)
+* -[[World Tier]] to **Seize the Initiative**

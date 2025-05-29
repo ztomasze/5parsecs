@@ -22,7 +22,7 @@ Having Luck capacity does not prevent death.
 | Combat Skill: Shooting | 10      | +3* |
 | Combat Skill: Brawling | 8       | +3* |
 | Speed                  | 5       | 8”  |
-| Savvy                  | 5       | +4  |
+| Savvy                  | 5       | +5  |
 | Toughness              | 8       | 5   |
 | Luck                   | 10      | 2   |
 
