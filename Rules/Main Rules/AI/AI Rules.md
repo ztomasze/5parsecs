@@ -34,9 +34,8 @@ AI types that use this: [[Rampaging]], [[Beast]], [[Aggressive]], ([[Defensive]]
 
 Generally, move to a hex within movement range that offers:
 
-* line-of-sight to at least one target
-
-See the specific AIs for tie-breaks beyond that.
+1. the ability to attack this turn
+2. see the specific AIs for tie-breaks beyond that
 
 Once in a hex that offers LoF to one or more targets, select one as below.
 
@@ -48,8 +47,11 @@ Break ties between multiple valid targets in order of:
  
 1. easiest to hit (best shooting modifier) 
 2. closest
-3. By status: wounded; stunned; least armored 
-4. (Any AI specific additions)
+3. by status:
+	1. wounded
+	2. stunned
+	3. least armored 
+4. (any AI specific additions)
 5. random
 
 ### Brawling

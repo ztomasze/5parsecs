@@ -7,4 +7,3 @@
 
 **Will brawl?** Always. 
 
-**Setup:** Place into 3 groups, evenly spaced across the table. Prefer pairs, with 2" between figures. Groups do not need to be on the enemy edge, but they do still need to be 18" from characters.

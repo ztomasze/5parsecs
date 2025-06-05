@@ -37,7 +37,7 @@ Our authoritative weapons list. New weapons in *italics*.
 | **Scrap pistol**              | 5"    | 1     | 0      | Pistol                      |
 | **Shatter Axe**               | Brawl | -     | 3      | Melee, Clumsy, Shockwave    |
 | **Shell gun**                 | 15"   | -     | 0      | Area                        |
-| **Shotgun**                   | 8"    | 1     | 0      | Shrapnel                    |
+| **Shotgun**                   | 8"    | 1     | 1      | Shrapnel                    |
 | **Suppression maul**          | Brawl | -     | 2      | Melee, Stun                 |
 
 ### Traits
@@ -57,11 +57,13 @@ Our authoritative weapons list. New weapons in *italics*.
 | ***Piercing***   | Ignore Armor Saving Throws.                                                                                                                                                                                                                                           |
 | ***Pistol***     | +1 to Brawling rolls.  <br>+1 to Shooting rolls within 6”.                                                                                                                                                                                                            |
 | ***Shockwave***  | A target that is hit is thrown 1D6” directly backwards.  If the target receives multiple hits from the attack, roll Xd6 and take the max roll. If the target's motion is stopped by terrain, they receive a Stun.  If stopped by another figure, both recieve a Stun. |
-| ***Shrapnel***   | On a miss, the attack still deals a Damage +0 hit.                                                                                                                                                                                                                    |
+| ***Shrapnel***   | On a miss, the attack still deals a 0-Damage hit.                                                                                                                                                                                                                     |
 | ***Single-use*** | The item can be used only once and must be deducted from the available supply.                                                                                                                                                                                        |
 | ***Snap shot***  | +1 to hit within 6” (Cumulative with Pistol).                                                                                                                                                                                                                         |
 | ***Stun***       | If they target is stunned by the attack, they receive a second Stun marker.                                                                                                                                                                                           |
 
 ### Range Increments
 
-You can shoot across the board, but the attack is at -1 for each full range increment traversed by the shot.  For example, a Shotgun attack is a made normally at a target up to 8" away, at -1 at 9" away, at -2 at 17" away, and so on.
+You can shoot across the board, but the attack is at -1 for each full range increment traversed by the shot.  For example, a Hand gun attack is made normally at a target up to 6" away, at -1 when 7" away, at -2 when 13" away, and so on.
+
+Not all weapons have range increments.  Area, Burn, and Shrapnel weapons do not.
