@@ -3,6 +3,7 @@ Roll a D6 modified by:
 * +Combat Skill (Shooting)
 * +/- any equipment modifiers (such as Pistol, Snap Shot, sights, etc)
 * -1 if the target has [[../Line of Sight and Cover|Cover]]
+* +1 if you are at least 4 hexes above your target
 * -any range penalties
 
 If the result is 5+, the shot inflicts a [[Hit]] on the target. 

@@ -27,6 +27,7 @@ Our authoritative weapons list. New weapons in *italics*.
 | **Hyper blaster**             | 20"   | 3     | 1      | Focused, Overheat           |
 | **Infantry laser**            | 36"   | 1     | 0      | Critical, Snap Shot         |
 | **Machine pistol**            | 6"    | 2     | 0      | Pistol, Focused             |
+| ***Machine rifle***           | 20"   | 2     | 0      | Focused, Heavy              |
 | **Marksman’s rifle**          | 36"   | 1     | 1      | Critical                    |
 | **Military rifle**            | 20"   | 1     | 0      | --                          |
 | **Needle rifle**              | 20"   | 1     | 0      | Critical, Piercing          |

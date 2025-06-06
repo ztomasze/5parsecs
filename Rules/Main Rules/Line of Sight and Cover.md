@@ -5,9 +5,10 @@ When in doubt, favor granting both line-of-sight (LoS) and cover.
 #### Shooting across/over
 
 * Obstacles and hex stacks of 4 or more breaks LoS.
-* 2 hexes high or more provides cover. 
+* 2 hexes high or more provides cover to a horizontal shot. 
 	* You can ignore a hex stack of height < 4 that is adjacent to the attacker when determining cover.
 * You can shoot over 1-hex heights.
+* A figure has cover if it is 4 or more hexes above you
 
 #### Shooting past/around
 
