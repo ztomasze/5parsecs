@@ -19,23 +19,12 @@
 | **Hyper blaster**  | 24"   | 3     | 1      | Overheat                 |
 | **Machine pistol** | 6"    | 2     | 0      | Pistol, Focused          |
 
-### Battle Conditions
+##### Battle conditions & special rules
 
-* 3 spawn points
-	* Spawns: 2 grunts, random(Lt, Lt Sp, Sp + Test)
-	* Tension mechanic: Start at 0. Roll d6 each turn:
-		* &gt; tension: +1
-		* <=: Spawn and drop tension by that amount.
-	* Shutdown: Action, Savvy 8+
 
-#### For Next Time
-* Khanjar: use rage out!
 
-## Minutes
-Future reactions idea:
-* Can't act fast; can only snap fire
+### Reminders for next time
 
-Can shoot 120 degrees with multishot
 
-stim pack: 
-* Remove 
+### Notes
+

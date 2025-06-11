@@ -1,4 +1,4 @@
-The order in which planets are visited in the story:
+The order in which planets were visited in **Campaign 1**:
 
 * [[Karnak 6]]
 * [[Sheun Prime]]
@@ -14,3 +14,7 @@ The order in which planets are visited in the story:
 Mentioned but not visited:
 * [[Garthon 4]]
 * [[Taldari]]
+
+Planets of **Campaign 2**:
+
+* [[Chaebol 6]]

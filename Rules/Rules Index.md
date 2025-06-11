@@ -2,6 +2,7 @@
 
 ### Character Creation
 
+* [[Crew Types]]
 
 ### Main Rules (Combat)
 
@@ -32,3 +33,7 @@
 * [[Post-Battle]]
 
 ### Training
+
+* [[Combat Classes]]
+* [[Bot Upgrades]]
+
