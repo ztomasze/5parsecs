@@ -6,6 +6,7 @@
 | 1   | Lt                 |       |       | <strong style="color: green;">+1</strong>    |                                        |     | +Blade                      |
 | 3   | Sp                 |       |       |                                              |                                        |     | Power Claw                  |
 | 1   | **Hulker Brawler** | 0     | 4"    | <strong style="color: green;">+1/+2</strong> | <strong style="color: red;">6</strong> | A   | Hand Cannon<br>Brutal Melee |
+
 **Gangers:** *Leg it:* When a ganger is hit by a shot, they will retreat 3” away from the shooter.
 
 | Weapon                  | Range | Shots | Damage | Quality                 |
