@@ -1,6 +1,8 @@
 
 ## Readying for Battle
 
+Determine numbers based on [[Campaign Difficulty]].
+
 Increase **Numbers** by +1 if enemy entry has:
 
 - Combat Skill +0 AND Toughness 3

@@ -27,8 +27,10 @@ Having Luck capacity does not prevent death.
 | Luck                   | 10      | 2   |
 
 \* = Combat Skills are capped to current [[World Tier]].
-
 ### 10. Invest in Advanced Training
 
-See ...
+See [[Advanced Training]], 
 
+### 11. Purchase Items
+
+See [[Bot Upgrades]]

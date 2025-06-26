@@ -34,6 +34,7 @@
 
 ### Training
 
+* [[Advanced Training]]
 * [[Combat Classes]]
 * [[Bot Upgrades]]
 

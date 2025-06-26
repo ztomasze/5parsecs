@@ -1,4 +1,12 @@
 
+Any of the following upgrades may be applied to a Bot character for the listed cost during
+post-battle step 11. Purchase Items. Only one upgrade can be installed per campaign turn. The Mechanic Advanced Training applies to these costs.
+
+A Bot character can have one of each upgrade installed over time. They are lost if the
+character is permanently destroyed (“Killed”), and cannot later be replaced or transferred.
+Note that Soulless characters cannot use these upgrades, as their physical shells use a
+different technological base.
+
 | Upgrade                   | Effect                                                                                                                                                                                         | Cost                                                                                                         |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Built-in weapon**       | Any weapon available may be built into the chassis. This negates the Heavy and Clumsy traits on the weapon. Once built-in, 1 credit must be spent to revert the weapon to regular usage again. | 3 Credits per Shot on weapon profile. +1 Credit per Shot per point of weapon Damage. Melee counts as 1 Shot. |
