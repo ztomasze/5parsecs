@@ -16,6 +16,8 @@ Having Luck capacity does not prevent death.
 
 ### 9. Experience and Character Upgrades
 
+Characters who do not participate in a mission still gain 1 XP.
+
 | Stat                   | XP cost | Max |
 | ---------------------- | ------- | --- |
 | Reactions              | 8       | 4   |
@@ -26,11 +28,12 @@ Having Luck capacity does not prevent death.
 | Toughness              | 8       | 5   |
 | Luck                   | 10      | 2   |
 
-\* = Combat Skills are capped to current [[World Tier]].
+\* = [Combat Skill](Main%20Rules/Combat/Actions) is capped to current [[World Tier]].
+
 ### 10. Invest in Advanced Training
 
-See [[Advanced Training]], 
+See [[Advanced Training]] and [[Combat Classes]].
 
 ### 11. Purchase Items
 
-See [[Bot Upgrades]]
+See [[Bot Upgrades]].

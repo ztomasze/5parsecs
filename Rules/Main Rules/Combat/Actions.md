@@ -18,4 +18,4 @@ Combat Skil (CS) is now broken into two skills for characters--Shooting and Braw
 
 * Base improvements to your CS (such as from your [[../../Crew Types|crew type]]) increase both.
 * When gaining +CS through a Background, Motivation, or Class, choose which of CSS (Shooting) or CSB (Brawling) to increase.
-* CSS and CSB cannot be increased above the [[World Tier]] by spending experience. If a character exceeds the World Tier limit from other sources (like Background), then they don’t benefit from the higher score until the World Tier increases.
+* CSS and CSB cannot be increased above the [[World Tier]] by spending experience. If a character exceeds the World Tier limit from other sources (like Background), then they convert this benefit to either Speed, Toughness, or Reactions instead.
