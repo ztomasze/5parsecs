@@ -1,20 +1,22 @@
 ## Current Battle
 
-| #   | Enemy              | Panic | Speed | CS                                           | Tough                                  | AI  | Weapons                     |
-| --- | ------------------ | ----- | ----- | -------------------------------------------- | -------------------------------------- | --- | --------------------------- |
-| 4   | **Gangers**        | 1-2   | 4"    | <strong style="color: green;">+0</strong>    | <strong style="color: red;">3</strong> | A   | Colony Rifle<br>            |
-| 1   | Lt                 |       |       | <strong style="color: green;">+1</strong>    |                                        |     | +Blade                      |
-| 3   | Sp                 |       |       |                                              |                                        |     | Power Claw                  |
-| 1   | **Hulker Brawler** | 0     | 4"    | <strong style="color: green;">+1/+2</strong> | <strong style="color: red;">6</strong> | A   | Hand Cannon<br>Brutal Melee |
+| #   | Enemy           | Panic | Speed | CS                                            | Tough                                   | AI  | Weapons          |
+| --- | --------------- | ----- | ----- | --------------------------------------------- | --------------------------------------- | --- | ---------------- |
+| 4   | **Zealots**     | 1     | 5"    | <strong style="color: green;">+0/+1*</strong> | <strong style="color: red;">4</strong>  | A   | Colony Rifle<br> |
+| 1   | Lt              |       |       | <strong style="color: green;">+1/+2*</strong> |                                         |     | +Blade           |
+| 3   | Sp              |       |       |                                               |                                         |     | Shotgun          |
+| 1   | **Nomad Scout** | 0     | 6"    | <strong style="color: green;">+1</strong>     | <strong style="color: red;">4</strong>* | D   | Marksman's Rifle |
 
-**Gangers:** *Leg it:* When a ganger is hit by a shot, they will retreat 3” away from the shooter.
+**Zealots:** *Ferocious:* +1 to Brawling rolls when initiating combat.
 
-| Weapon                  | Range | Shots | Damage | Quality                 |
-| ----------------------- | ----- | ----- | ------ | ----------------------- |
-| **Colony rifle**        | 15"   | 1     | 0      | --                      |
-| **Power claw**          | Brawl | -     | 3      | Melee, Clumsy, Piercing |
-| **Brutal melee weapon** | Brawl | -     | 2      | Melee, Clumsy           |
-| **Hand cannon**         | 6"    | 1     | 2      | Pistol                  |
+**Nomad Scout:** *Concealed:* Always counts as being in Cover when fired upon.
+
+| Weapon               | Range | Shots | Damage | Quality  |
+| -------------------- | ----- | ----- | ------ | -------- |
+| **Blade**            | Brawl | -     | 1      | Melee    |
+| **Colony rifle**     | 15"   | 1     | 0      | --       |
+| **Shotgun**          | 8"    | 1     | 1      | Shrapnel |
+| **Marksman’s rifle** | 36"   | 1     | 1      | Critical |
 
 ##### Battle conditions & special rules
 
