@@ -1,4 +1,4 @@
-All trainings cost 15 XP/credits.
+All trainings cost 15 XP/credits.  A character can only purchase one of these trainings.
 
 ##### Pilot training
 * When rolling for a new world during New World Arrival, roll twice and pick one.
