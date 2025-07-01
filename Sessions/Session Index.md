@@ -37,9 +37,10 @@
 
 ## Second Campaign: Ship's Log
 
-+ [[2025-06-18 - Intro]]
-+ [[2025-06-18 - Turn 1 - World]]
-+ [[2025-06-18 - Turn 1 - Battle]]
-+ [[2025-06-18 - Turn 2 - World]]
++ [[2025-06-18 - Intro]] - Julie starts her vlog; the party comes together on [[../Planets/Chaebol 6|Chaebol 6]]
++ [[2025-06-18 - Turn 1 - World]] 
++ [[2025-06-18 - Turn 1 - Battle]] - A job to make a drop in a bad neighborhood for Droyne Enterprises
++ [[2025-06-18 - Turn 2 - World]] 
++ **2025-07-01 - Turn 2 - Battle** - Time to dissuade Jean's brand-zealot rivals
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
