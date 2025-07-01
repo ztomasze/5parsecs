@@ -35,7 +35,7 @@
 * [[2025-04-08]] - **Turn 31:**
 * [[2025-04-16]] - **Turn 31b:**
 
-## Second Campaign: Ship's Log
+## Second Campaign: Captain + Ship Logs
 
 + [[2025-06-18 - Intro]] - Julie starts her vlog; the party comes together on [[../Planets/Chaebol 6|Chaebol 6]]
 + [[2025-06-18 - Turn 1 - World]] 
