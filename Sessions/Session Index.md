@@ -37,4 +37,9 @@
 
 ## Second Campaign: Ship's Log
 
-* [[2025-06-11]]
++ [[2025-06-18 - Intro]]
++ [[2025-06-18 - Turn 1 - World]]
++ [[2025-06-18 - Turn 1 - Battle]]
++ [[2025-06-18 - Turn 2 - World]]
+
+[Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

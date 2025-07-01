@@ -9,6 +9,6 @@
 | ------------------ | --------- | ------- | ---------------------- |
 | Droyne Enterprises | Corporate | none    | +1 to danger pay rolls |
 
-| Rival   | Type             | Notes                          |
-| ------- | ---------------- | ------------------------------ |
-| Zealots | Interested Party | Not fans of our genetic uplift |
+| Rival   | Type             | Notes                          | Resolved |
+| ------- | ---------------- | ------------------------------ | -------- |
+| Zealots | Interested Party | Not fans of our genetic uplift |          |
