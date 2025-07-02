@@ -2,7 +2,7 @@
 
 | #   | Enemy                  | Panic | Speed | CS                                        | Tough                                   | AI  | Weapons            |
 | --- | ---------------------- | ----- | ----- | ----------------------------------------- | --------------------------------------- | --- | ------------------ |
-| 4   | **Corporate Security** | 1-2   | 4"    | <strong style="color: green;">+1</strong> | <strong style="color: red;">4</strong>* | D   | Military Rifle<br> |
+| 5   | **Corporate Security** | 1-2   | 4"    | <strong style="color: green;">+1</strong> | <strong style="color: red;">4</strong>* | D   | Military Rifle<br> |
 | 1   | Lt                     |       |       | <strong style="color: green;">+2</strong> |                                         |     | +Blade             |
 | 3   | Sp                     |       |       |                                           |                                         |     | Rattle Gun         |
 | 1   | **Mk II Security Bot** | 0     | 4"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">5</strong>* | G   | Fury Rifle         |
