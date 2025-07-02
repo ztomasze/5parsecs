@@ -41,6 +41,8 @@
 + [[2025-06-18 - Turn 1 - World]] 
 + [[2025-06-18 - Turn 1 - Battle]] - A job to make a drop in a bad neighborhood for Droyne Enterprises
 + [[2025-06-18 - Turn 2 - World]] 
-+ **2025-07-01 - Turn 2 - Battle** - Time to dissuade Jean's brand-zealot rivals
++ [[2025-07-01 - Turn 2 - Battle]] - Time to dissuade Jean's brand-zealot rivals
++  [[2025-07-01 - Turn 3 - World]] 
++ ...
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

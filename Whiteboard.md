@@ -1,22 +1,22 @@
 ## Current Battle
 
-| #   | Enemy           | Panic | Speed | CS                                            | Tough                                   | AI  | Weapons          |
-| --- | --------------- | ----- | ----- | --------------------------------------------- | --------------------------------------- | --- | ---------------- |
-| 4   | **Zealots**     | 1     | 5"    | <strong style="color: green;">+0/+1*</strong> | <strong style="color: red;">4</strong>  | A   | Colony Rifle<br> |
-| 1   | Lt              |       |       | <strong style="color: green;">+1/+2*</strong> |                                         |     | +Blade           |
-| 3   | Sp              |       |       |                                               |                                         |     | Shotgun          |
-| 1   | **Nomad Scout** | 0     | 6"    | <strong style="color: green;">+1</strong>     | <strong style="color: red;">4</strong>* | D   | Marksman's Rifle |
+| #   | Enemy                  | Panic | Speed | CS                                        | Tough                                   | AI  | Weapons            |
+| --- | ---------------------- | ----- | ----- | ----------------------------------------- | --------------------------------------- | --- | ------------------ |
+| 4   | **Zealots**            | 1-2   | 4"    | <strong style="color: green;">+1</strong> | <strong style="color: red;">4</strong>* | D   | Military Rifle<br> |
+| 1   | Lt                     |       |       | <strong style="color: green;">+2</strong> |                                         |     | +Blade             |
+| 3   | Sp                     |       |       |                                           |                                         |     | Rattle Gun         |
+| 1   | **Mk II Security Bot** | 0     | 4"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">5</strong>* | G   | Fury Rifle         |
 
-**Zealots:** *Ferocious:* +1 to Brawling rolls when initiating combat.
+**Corporate Security:** 6+ Saving Throw
 
-**Nomad Scout:** *Concealed:* Always counts as being in Cover when fired upon.
+**Mk II Security Bot:** 6+ Saving Throw.  *Targeting AI:* May fire twice per round at the two closest visible targets. If only one target is visible, only one shot is taken.
 
-| Weapon               | Range | Shots | Damage | Quality  |
-| -------------------- | ----- | ----- | ------ | -------- |
-| **Blade**            | Brawl | -     | 1      | Melee    |
-| **Colony rifle**     | 15"   | 1     | 0      | --       |
-| **Shotgun**          | 8"    | 1     | 1      | Shrapnel |
-| **Marksman’s rifle** | 36"   | 1     | 1      | Critical |
+| Weapon             | Range | Shots | Damage | Quality                    |
+| ------------------ | ----- | ----- | ------ | -------------------------- |
+| **Blade**          | Brawl | -     | 1      | Melee                      |
+| **Military rifle** | 20"   | 1     | 0      | --                         |
+| **Rattle gun**     | 20"   | 3     | 0      | Focused, Heavy             |
+| **Fury rifle**     | 20"   | 1     | 2      | Heavy, Piercing, Shockwave |
 
 ##### Battle conditions & special rules
 

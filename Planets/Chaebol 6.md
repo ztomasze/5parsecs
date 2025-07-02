@@ -9,6 +9,6 @@
 | ------------------ | --------- | ------- | ---------------------- |
 | Droyne Enterprises | Corporate | none    | +1 to danger pay rolls |
 
-| Rival   | Type             | Notes                          | Resolved |
-| ------- | ---------------- | ------------------------------ | -------- |
-| Zealots | Interested Party | Not fans of our genetic uplift |          |
+| Rival       | Type             | Notes                          | Resolved                                                                   |
+| ----------- | ---------------- | ------------------------------ | -------------------------------------------------------------------------- |
+| ~~Zealots~~ | Interested Party | Not fans of our genetic uplift | [[../Sessions/2025-07-01 - Turn 2 - Battle\|2025-07-01 - Turn 2 - Battle]] |
