@@ -109,7 +109,7 @@ Feats
 - **High-Caliber Ammo** - Critical weapons deal +1 damage.
 - **Headshot** - In addition to a natural 6, critical weapons also crit when the modified to hit roll exceeds the required to hit value by 3 or more.
 - **Sharpshooter** - Aimed shots with critical weapons ignore cover.
-* **Guardian Angel** - Your luck points can be used for any other character; when you use one or more luck points this way, you get +2 on your next roll to recover luck points.
+- **Guardian Angel** - Your luck points can be used for any other character; when you use one or more luck points this way, you get +2 on your next roll to recover luck points.
 
 Training Requirement: Any **Critical** weapon
     

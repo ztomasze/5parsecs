@@ -28,7 +28,7 @@ Characters who do not participate in a mission still gain 1 XP.
 | Toughness              | 8       | 5   |
 | Luck                   | 10      | 2   |
 
-\* = [Combat Skill](Main%20Rules/Combat/Actions) is capped to current [[World Tier]].
+\* = [[Main Rules/Combat/Actions|Combat Skill]]is capped to current [[World Tier]].
 
 ### 10. Invest in Advanced Training
 
