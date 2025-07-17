@@ -65,12 +65,12 @@ The downtime was a good opportunity to sign up for some advanced trainings. Most
 | Julie | Gunslinger: Dual Wielding |
 | Gizmo | Mechanic                  |
 
-| Buy / Sell | Detail         |
-| ---------- | -------------- |
-| Sell       | Scrap pistol   |
-| Sell       | Military rifle |
-| Sell       | Military rifle |
-| Buy        | Blade          |
+| Buy / Sell | Detail         | Credits |
+| ---------- | -------------- | ------- |
+| Sell       | Scrap pistol   | +1      |
+| Sell       | Military rifle | +1      |
+| Sell       | Military rifle | +1      |
+| Buy        | Blade          | -1      |
 
 | Event Type | Crew  | Event                                 |
 | ---------- | ----- | ------------------------------------- |

@@ -43,7 +43,7 @@
 + [[2025-06-18 - Turn 2 - World]] 
 + [[2025-07-01 - Turn 2 - Battle]] - *Zealots in the Park:* Time to dissuade Jean's brand-zealot rivals
 + [[2025-07-01 - Turn 3 - World]] 
-+ [[2025-07-03 - Turn 3 - Battle]] - *Hangar Snooping:* A job to snap some corporate espionage pics.
++ [[2025-07-03 - Turn 3 - Battle]] - *Hangar Snooping:* A job to snap some corporate espionage pics for SpaceBus.
 + [[2025-07-03 - Turn 4 - World]]
 + [[2025-07-16 - Turn 4 - Battle]] - *A Bounty in the Dark:* An opportunity to make a little money.
 + [[2025-07-16 - Turn 5 - World]]

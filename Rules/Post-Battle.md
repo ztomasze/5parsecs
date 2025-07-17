@@ -10,10 +10,6 @@ You lose the patron on a failed patron job. You are at -1 on future Job rolls fo
 
 You do not get paid for a failed job. You still receive any Patron danger pay (which is paid up front).
 
-### 8. Determine Injuries and Recovery
-
-Having Luck capacity does not prevent death.
-
 ### 9. Experience and Character Upgrades
 
 Characters who do not participate in a mission still gain 1 XP.
