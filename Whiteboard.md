@@ -1,25 +1,32 @@
 ## Current Battle
 
-| #   | Enemy        | Panic | Speed | CS                                        | Tough                                  | AI  | Weapons       |
-| --- | ------------ | ----- | ----- | ----------------------------------------- | -------------------------------------- | --- | ------------- |
-| 5   | **Cultists** | 1     | 4"    | <strong style="color: green;">+0</strong> | <strong style="color: red;">3</strong> | A   | Scrap pistol  |
-| 1   | Lt Sp        |       |       | <strong style="color: green;">+1</strong> | <strong style="color: red;">4</strong> |     | +Blade        |
-| 3   | Sp           |       |       |                                           |                                        |     | Hunting rifle |
+| #   | Enemy                  | Panic | Speed | CS                                        | Tough                                   | AI  | Weapons                                     |
+| --- | ---------------------- | ----- | ----- | ----------------------------------------- | --------------------------------------- | --- | ------------------------------------------- |
+| 4   | **Isolationists**      | 1-2   | 4"    | <strong style="color: green;">+0</strong> | <strong style="color: red;">3</strong>  | C   | Shotgun                                     |
+| 1   | Lt                     |       |       | <strong style="color: green;">+1</strong> | <strong style="color: red;">4</strong>  |     |                                             |
+| 3   | Sp                     |       |       |                                           |                                         |     | Power Claw                                  |
+| 1   | **Precursor Wanderer** | 0     | 7"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">4</strong>* | A   | 1 Luck  <br>Infantry Laser  <br>Glare Sword |
 
-**Cultist:** 
-+ **Intrigue:** Roll 2D6 and add +1 if you killed a Lieutenant and/or Unique Individual. On a 9+,
-you obtain a Quest Rumor.
+**Isolationists:** 
++ **Dogged:** If reduced to only 1 or 2 figures, they become Fearless and will not flee.
 
-| Weapon            | Range | Shots | Damage | Quality                    |
-| ----------------- | ----- | ----- | ------ | -------------------------- |
-| **Blade**         | Brawl | -     | 1      | Melee                      |
-| **Scrap pistol**  | 5"    | 1     | 0      | Pistol                     |
-| **Hunting rifle** | 36"   | 1     | 1      | Heavy, Critical            |
+**Precursor**
+* 6+ Saving Throw.
++ **One with the Flow:** Moves before the Quick Actions phase.
+
+| Weapon             | Range | Shots | Damage | Quality                  |
+| ------------------ | ----- | ----- | ------ | ------------------------ |
+| **Blade**          | Brawl | -     | 1      | Melee                    |
+| **Shotgun**        | 8"    | 1     | 1      | Shrapnel                 |
+| **Power claw**     | Brawl | -     | 3      | Melee, Clumsy, Piercing  |
+| **Infantry laser** | 36"   | 1     | 0      | Critical, Snap Shot      |
+| **Glare sword**    | Brawl | -     | 1      | Melee, Elegant, Piercing |
 
 ##### Battle conditions & special rules
 
-+ **Goal:** Secure (bring tower back online after eco-terrorist sabatoge)
-+ **Priority target** (random: +Toughness, 1d3 cr)
++ **Delayed:** 2 random crew members won’t start on the table. At the end of each round, roll 1D6: If the roll is equal or below the round number, they may be placed at any point of your own battlefield edge.  **(Chirp & Jean + the precursor)**
++ **Goal:** Deliver
++ **Peculiar item** (+2 XP) - precursor glimpse of the future
 
 ### Reminders for next time
 
