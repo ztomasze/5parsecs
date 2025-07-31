@@ -5,7 +5,7 @@ Your primary action can be one of these types:
 * **Combat Action**
     * **Shoot** - See [[Shooting]] rules
     * **Brawl** - See [[Brawling]] rules
-* **Dash** - Move 2"
+* **Dash** - Move 2". You can only Dash if you used your Move to make a normal movement.
 * **Non-Combat Action** - Required to use certain items or to interact with some environmental features.
 
 You can also perform one **Free Action** any time during your activation, such as using a consumable. Performing a second Free Action requires your primary action.
