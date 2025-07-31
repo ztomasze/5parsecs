@@ -47,5 +47,9 @@
 + [[2025-07-03 - Turn 4 - World]]
 + [[2025-07-16 - Turn 4 - Battle]] - *A Bounty in the Dark:* An opportunity to make a little money.
 + [[2025-07-16 - Turn 5 - World]]
++ [[2025-07-23 - Turn 5 - Battle]] - A job to secure a telecom tower from some angry cultists.
++ [[2025-07-23 - Turn 6 - World]]
++ [[2025-07-30 - Turn 6 - Battle]] - A job to deliver a package down a very dangerous alley.
++ [[2025-07-30 - Turn 7 - World]]
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
