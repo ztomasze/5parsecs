@@ -11,7 +11,7 @@
 + **Dogged:** If reduced to only 1 or 2 figures, they become Fearless and will not flee.
 
 **Precursor**
-* 6+ Saving Throw.
++ 6+ Saving Throw.
 + **One with the Flow:** Moves before the Quick Actions phase.
 
 | Weapon             | Range | Shots | Damage | Quality                  |
