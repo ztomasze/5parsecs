@@ -1,28 +1,25 @@
 ## Current Battle
 
-| #   | Enemy                | Panic  | Speed | CS                                        | Tough                                  | AI  | Weapons        |
-| --- | -------------------- | ------ | ----- | ----------------------------------------- | -------------------------------------- | --- | -------------- |
-| 6   | **Abductor Raiders** | 1* (0) | 4"    | <strong style="color: green;">+0</strong> | <strong style="color: red;">3</strong> | A   | Infantry Laser |
-| 1   | Lt                   |        |       | <strong style="color: green;">+1</strong> |                                        |     | + Blade        |
-| 3   | Sp                   |        |       |                                           |                                        |     | Hunting Rifle  |
+| #   | Enemy                | Panic  | Speed | CS                                        | Tough                                  | AI  | Weapons    |
+| --- | -------------------- | ------ | ----- | ----------------------------------------- | -------------------------------------- | --- | ---------- |
+| 10  | **Abductor Raiders** | 1* (0) | 4"    | <strong style="color: green;">+0</strong> | <strong style="color: red;">3</strong> | A   | Hand Laser |
+| 1   | Lt                   |        |       | <strong style="color: green;">+1</strong> |                                        |     | + Blade    |
+| 3   | Sp                   |        |       |                                           |                                        |     | Shotguns   |
 
-**Abuductor Raiders** 
+**Abuductor Raiders** ("Probers")
 + Invasion Threat!
 
-| Weapon             | Range | Shots | Damage | Quality             |
-| ------------------ | ----- | ----- | ------ | ------------------- |
-| **Blade**          | Brawl | -     | 1      | Melee               |
-| **Infantry laser** | 36"   | 1     | 0      | Critical, Snap Shot |
-| **Hunting rifle**  | 36"   | 1     | 1      | Heavy, Critical     |
+| Weapon         | Range | Shots | Damage | Quality           |
+| -------------- | ----- | ----- | ------ | ----------------- |
+| **Blade**      | Brawl | -     | 1      | Melee             |
+| **Hand laser** | 6"    | 1     | 0      | Pistol, Snap Shot |
+| **Shotgun**    | 8"    | 1     | 1      | Shrapnel          |
 
 ##### Battle conditions & special rules
 
-+ **Goal:** Search (6 points to check; action to roll d6:5+ to find.)
-+ **Notable sight:** Loot cache
-+ +1 morale (= -1 panic)
++ **Goal:** Survive on the board for 6 rounds
 
 ### Reminders for next time
 
-+ Out in the woods.  Check 6 trees for entrance.
 ### Notes
 
