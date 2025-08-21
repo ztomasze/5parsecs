@@ -51,5 +51,8 @@
 + [[2025-07-23 - Turn 6 - World]]
 + [[2025-07-30 - Turn 6 - Battle]] - A job to deliver a package down a very dangerous alley.
 + [[2025-07-30 - Turn 7 - World]]
++ [[2025-08-13 - Turn 7 - Battle]]
++ [[2025-08-13 - Turn 8 - World]]
++ 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
