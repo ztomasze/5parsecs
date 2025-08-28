@@ -16,3 +16,8 @@
 | Rival       | Type             | Notes                          | Resolved                                                                   |
 | ----------- | ---------------- | ------------------------------ | -------------------------------------------------------------------------- |
 | ~~Zealots~~ | Interested Party | Not fans of our genetic uplift | [[../Sessions/2025-07-01 - Turn 2 - Battle\|2025-07-01 - Turn 2 - Battle]] |
+
+**Status:** 
++ Invaded - [[../Sessions/2025-08-13 - Turn 8 - World|2025-08-13 - Turn 8 - World]]
++ Prober's win!  (Can never return) - [[../Sessions/2025-08-27 - Turn 10 - World|2025-08-27 - Turn 10 - World]]
+
