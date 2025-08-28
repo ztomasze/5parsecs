@@ -51,8 +51,11 @@
 + [[2025-07-23 - Turn 6 - World]]
 + [[2025-07-30 - Turn 6 - Battle]] - A job to deliver a package down a very dangerous alley.
 + [[2025-07-30 - Turn 7 - World]]
-+ [[2025-08-13 - Turn 7 - Battle]]
++ [[2025-08-13 - Turn 7 - Battle]] - Tracking down our big bounty, but interrupted by probers!
 + [[2025-08-13 - Turn 8 - World]]
-+ 
++ [[2025-08-20 - Turn 8 - Battle]] - Have to flee [[../Planets/Chaebol 6|Chaebol 6]] as it's invaded by probers.
++ [[2025-08-20 - Turn 9 - World]]
++ [[2025-08-27 - Turn 9 - Battle]] - On [[../Planets/Outpost - Gamma 4821|Outpost - Gamma 4821]], we track our big bounty to a dark junkyard.
++ [[2025-08-27 - Turn 10 - World]]
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
