@@ -16,15 +16,8 @@
 ##### Battle conditions & special rules
 
 + **Goal:** Acquire - Move in contact, action to pick up, move off the board
-+ **Poor visibility** - Roll d6+8" each round
-	+ Ideas?
-	+ Roving spotlight(s)
-		+ move to random point from center?
-		+ light up a set spot?
-		+ change poor visibility range to more widely variable
-	+ Competing teams?  
-		+ They can acquire as the single target as well, and bear it off the board
-		+ Or, there are 3+ piles that need to be looted
+	+ 5 items; each side needs to recover 3 to win
+	+ Need to spend an action to get one: d6:6, then 4, then 2, then auto.
 + **Curious item** - d6: 1-4: 1 cr; 5-6: Loot roll
 
 ### Reminders for next time
