@@ -7,6 +7,7 @@ World Tier starts at 1, and increases by 1 each time a quest is completed.
 
 ### Battle Effects
 
+- Add +(WT - 1) to Danger Pay
 - At WT 2: All enemies gain +1 CS    
 - At WT 3: All enemies gain +1 Toughness
 
@@ -18,6 +19,35 @@ Also roll (WT-1) times on the **Challenge table** below. Reroll any duplicate re
 4. Gain Armor Saving Throw 6+ or improve existing save by 1.
 5. Weapon class upgrade (WT - 1 times)
 6. Respawn: On enemy death, roll a d6 and the creature respawns d6" in a random direction on a result of (8-WT). If killed in Fast, they don’t act in that Monster phase.
+
+##### Weapon Upgrade Paths
+
+Melee
++ Blade - Ripper sword - Power Claw
++ Brutal Melee Weapon - *Suppression Maul* - Power Claw
++ Glare Sword - *Boarding Saber* - *Shatter Axe*
+
+Pistols
++ Scrap Pistol - Handgun - Blast Pistol - Hand Cannon
++ Hand Laser - *Beam Pistol*
++ Machine Pistol
+
+Shrapnel
++ Shotgun - *Double-Barreled Shotgun* - *Flak Gun*
+
+Rifles
++ Colony rifle - Auto rifle - *Machine rifle* - Rattle Gun - Hyper Blaster
++ Military Rifle - Blast Rifle - Fury Rifle - Plasma Rifle - Hyper Blaster
+
+Sniper Rifles
++ Infantry Laser - Hunting Rifle - Marksman’s Rifle
+
+Area / burn
++ Cling Fire Gun
++ Hand Flamer
++ Shell Gun
+
+If there is no upgrade, add +1 damage to the existing weapon instead. Battlefield finds copies of the weapon do not keep the +1 damage.
 
 ### Red Zone
 

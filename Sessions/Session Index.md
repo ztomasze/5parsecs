@@ -57,5 +57,8 @@
 + [[2025-08-20 - Turn 9 - World]]
 + [[2025-08-27 - Turn 9 - Battle]] - On [[../Planets/Outpost - Gamma 4821|Outpost - Gamma 4821]], we track our big bounty to a dark junkyard.
 + [[2025-08-27 - Turn 10 - World]]
++ [[2025-09-03 - Turn 10 - Battle]] - Took down our merc bounty in a parking lot... but mysteries are revealed!
++ [[2025-09-03 - Turn 11 - World]]
+
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

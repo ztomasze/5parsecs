@@ -10,5 +10,3 @@
 	4. Move the shortest distance
 
 **Will brawl?** If my Brawling is **>** my target's. 
-
-**Setup:** In 3 groups, with 8" between each group and 1 to 2" between figures in a group.
