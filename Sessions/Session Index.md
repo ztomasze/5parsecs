@@ -59,6 +59,8 @@
 + [[2025-08-27 - Turn 10 - World]]
 + [[2025-09-03 - Turn 10 - Battle]] - Took down our merc bounty in a parking lot... but mysteries are revealed!
 + [[2025-09-03 - Turn 11 - World]]
++ [[2025-09-24 - Turn 11 - Battle]] - On [[../Planets/Provo 9|Provo 9]], a job to clear out a church of feral mercenaries.
++ [[2025-09-24 - Turn 12 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
