@@ -61,6 +61,8 @@
 + [[2025-09-03 - Turn 11 - World]]
 + [[2025-09-24 - Turn 11 - Battle]] - On [[../Planets/Provo 9|Provo 9]], a job to clear out a church of feral mercenaries.
 + [[2025-09-24 - Turn 12 - World]]
++ [[2025-10-08 - Turn 12 - Battle]] - A job to fix a transformer, surrounded by razor lizards.
++ [[2025-10-08 - Turn 13 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
