@@ -18,3 +18,6 @@ Mentioned but not visited:
 Planets of **Campaign 2**:
 
 * [[Chaebol 6]]
+* [[../Planets/Outpost - Gamma 4821|Outpost - Gamma 4821]]
+* [[Provo 9]]
+* [[Vista Prime]]

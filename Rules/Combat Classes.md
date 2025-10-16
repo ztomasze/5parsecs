@@ -16,7 +16,7 @@ In addition to the existing [[Advanced Training]] options, characters may take t
 
 Feats
 
-* **Splash Damage** - When firing a Shrapnel weapon, each shot may target two adjacent targets if both are in range. Roll to hit once for each shot.
+* **Splash Damage** - When firing a Shrapnel weapon, each shot may target two adjacent targets if both are in range. Roll to hit for each target. If the weapon is Focused, the two targets must be the same for all shots.
 * **Point Blank** - Shrapnel weapons get +1 to hit within 4”.
 * **Pain Tolerance** - You can move and shoot in the same turn with stuns, but with a -1 penalty to hit.
 * **Riot Shield** - Increase toughness by 1 against enemies within 6” (including brawling).
@@ -39,7 +39,7 @@ Feats
 
 - **Martial Arts** - When brawling, roll 1 additional die and keep the highest (K’Erin would roll 3).
 - **Tireless** - The melee damage penalty for stuns is halved (rounded down).
-- **Cleave** - When you initiate brawling and kill an enemy, you may initiate a second brawl this turn. 
+- **Cleave** - When you initiate brawling and kill an enemy, you may initiate a second brawl this turn.  Resolve each brawl separately, and you must have movement remaining after finishing the first brawl to initiate the second.
 - **Adrenaline** - You clear 2 stuns at the end of your turn instead of 1.
 
 Class Benefits

@@ -63,6 +63,9 @@
 + [[2025-09-24 - Turn 12 - World]]
 + [[2025-10-08 - Turn 12 - Battle]] - A job to fix a transformer, surrounded by razor lizards.
 + [[2025-10-08 - Turn 13 - World]]
++ [[2025-10-15 - Turn 13 - Battle]] - A job to deliver a package... that leads us into a merc ambush!
++ [[2025-10-15 - Turn 14 - World]]
++  - On [[../Planets/Vista Prime|Vista Prime]] ...
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
