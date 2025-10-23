@@ -18,7 +18,10 @@ Also roll (WT-1) times on the **Challenge table** below. Reroll any duplicate re
 3. +Numbers (WT2: Grunt, Specialist; WT3: +Lt)
 4. Gain Armor Saving Throw 6+ or improve existing save by 1.
 5. Weapon class upgrade (WT - 1 times)
-6. Respawn: On enemy death, roll a d6 and the creature respawns d6" in a random direction on a result of (8-WT). If killed in Fast, they don’t act in that Monster phase.
+6. Respawn: On enemy death, roll a d6 and the creature respawns d6" in a random direction on a result of (8-WT). 
+	1. If killed in Fast phase, they respawn in the Enemy phase. Respawning consumes their turn that phase. 
+	2. If killed in Slow phase, they respawn at the end of the phase.
+	3. A respawned enemy does not count as dead for purposes of panic, battlefield finds, first kill, etc.)
 
 ##### Weapon Upgrade Paths
 

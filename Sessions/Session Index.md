@@ -65,7 +65,8 @@
 + [[2025-10-08 - Turn 13 - World]]
 + [[2025-10-15 - Turn 13 - Battle]] - A job to deliver a package... that leads us into a merc ambush!
 + [[2025-10-15 - Turn 14 - World]]
-+  - On [[../Planets/Vista Prime|Vista Prime]] ...
++ [[2025-10-22 - Turn 14 - Battle]] - On [[../Planets/Vista Prime|Vista Prime]], a job to run off some punks under the overpass.
++ [[2025-10-22 - Turn 15 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
