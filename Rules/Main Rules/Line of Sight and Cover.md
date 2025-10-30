@@ -20,6 +20,7 @@ When in doubt, favor granting both line-of-sight (LoS) and cover.
 
 * Figures break LoS if your shot follows a "brute" line (straight line of hexes) through them. 
 * Figures never provide cover.
+	* Except in "negative space" missions (alleyways, sewers, ducts, etc): Ignore the first figure but any further figures do provide cover by the normal "eyeball it" technique.
 
 #### Area features
 
@@ -27,3 +28,8 @@ When in doubt, favor granting both line-of-sight (LoS) and cover.
 * A figure in an edge hex can see and be seen from outside the area. 
 * Two figures within an area can see each other if they are adjacent. 
 * A figure in an Area always has cover.
+
+#### Obscurement (smoke) feature
+
++ Shooting through edge hexes of an obscurement area or at a target in an edge hex, the shot is at -1.
++ If shooting through an inner hex, the shot is at -2.

@@ -6,11 +6,9 @@ The enemy AI systems do not provide rigid rules.  Whenever the few rules provide
 
 Exposure is a metric used by some AI types.
 
-**Exposure** is a measure of how many opponents can currently shoot you and with what degree of cover. It is inspired by the basic shooting modifiers, but it ignores combat skill and specific weapon load-out, range, and damage. (Look only at figures on the table, not at character sheets or monster stat blocks.) 
+**Exposure** is a measure of how many opponents can currently shoot you. In a given hex, your exposure is:
 
-Therefore, in a given hex, your exposure is:
-
-- +2 for each opponent that has LoS to you (regardless of range)    
+- +2 for each opponent that has LoS to you and can hit you
 - -1 if you have cover from that opponent    
 - +1 if the opponent is within 6" (due to increased danger of both pistols and brawling)
 
