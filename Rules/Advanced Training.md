@@ -14,7 +14,7 @@ All trainings cost 15 XP/credits.  A character can only purchase one of these tr
 
 ##### Medical school
 * After each battle, you may nominate a casualty that will roll twice on the Injury Table, picking the better result. This crew member must have been in the battle and must not have become a casualty. (If your ship has a Shuttle, you can evac fast enough that this crew member can apply their skill even if they did not participate in the battle.)
-* If this crew member participates in a battle, once during that battle they can remove 1 wound or 3 stuns from an adjacent character as a non-combat action.
+* If this crew member participates in a battle, once during that battle they can remove 1 wound or 3 stuns from themselves or an adjacent character as a non-combat action.
 
 ##### Merchant school
 * When this crew member Trades, you may reroll one Trade roll each campaign turn. The new roll must be accepted and if the new roll offers a choice of whether to buy an item, you must accept. You may roll up all eligible Trade rolls before choosing what to reroll.
@@ -22,7 +22,7 @@ All trainings cost 15 XP/credits.  A character can only purchase one of these tr
 
 ##### Security training
 * If this crew member is part of your squad when fighting a battle, you may add +1 when rolling to Seize the Initiative.
-* If the crew succeeds Seize the Initiative by 3 or more, you can take a full turn before the battle begins.
+* If the crew succeeds Seize the Initiative by 3 or more, each character that rolls a d6 <= their Reactions may take a full turn instead of the normal Seize the Initiative turn.
 * When you roll a Savvy check in a battle to access or bypass a secured system, you may roll 2D6, pick the better die, and add 1 to the score.
 * Ferals count any XP spent as double value for obtaining this.
 

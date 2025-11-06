@@ -3,7 +3,7 @@
 | #   | Enemy           | Panic | Speed | CS                                        | Tough                                  | AI  | Weapons        |
 | --- | --------------- | ----- | ----- | ----------------------------------------- | -------------------------------------- | --- | -------------- |
 | 8   | **Swarm Brood** | 0     | 6"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">4</strong> | B   | Claws (+2 dmg) |
-| 2   | Lt              |       |       | <strong style="color: green;">+3</strong> |                                        |     | <!--+ Blade--> |
+| 1   | Lt              |       |       | <strong style="color: green;">+3</strong> |                                        |     | <!--+ Blade--> |
 | 0   | Sp              |       |       | <strong style="color: green;">+1</strong> |                                        |     |                |
 + **Pack hunters:** All Brawls initiated by Swarm are resolved at the end of the Enemy Actions phase. Swarm will always attempt to gang up on prey, where possible.
 + **Invasion Threat.**
@@ -19,9 +19,10 @@
 #### Battle conditions & special rules
 
 + **Gloom:** In battle, maximum visibility is restricted to 1D6+6”.
-	+ **Poor visibility** (1d6+8" Reroll at the start of each round.)
-+ **Goal:** Move Thru
-+ Separated in a dark storm by a long hill down the center. 3 of us (one PC of each player: R9, Gizmo, Jean; Julie, Chirp, Billie) on either side, facing two packs.
++ **Goal:** Survive 6 rounds. Can't get into the ship until then.
++ The ship is a valid target for monsters. They auto-hit.  Every 10 points of damage is 1 hull damage.
++ We start in one group.  Ship on one edge; they start between us and the ship.
++ 6 spawn points, in pairs. Td4 at the end of each turn (T).  (Or only d3?)
 
 #### Notes / Reminders for next time
 

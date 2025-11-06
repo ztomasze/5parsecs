@@ -28,3 +28,12 @@ If both figures are still standing, the attacker can push the defender out of th
 > - 1" push back on each hit
 > - Melee clears stuns
 > - Multiple opponent rules (in favor of our Pack Tactics rules, which is the only time it has come up)
+
+
+#### Pack Hunters
+
+**Swarm Brood** is currently the sole example. 
+
++ Pack hunters end their movement in your space but resolve any attack at the end of the enemy phase.  There is no limit to the number who can enter you hex this way.
++ At the end of monster phase, resolve the brawling attack of each pack member in your hex.  The first member attacks with its normal bonus, the second gains a +1, the third +2, and so on. After resolving the attack, that pack member moves "back" to the nearest open hex.
++ If you spend a luck point AND use it to move, all pack members in your hex who have not yet attacked will freely move with you. This resets the swarm bonus of the next attack back to +0 (reflecting the smaller pack that is still on you).
