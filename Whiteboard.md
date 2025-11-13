@@ -10,7 +10,7 @@
 + **Respawn:** On enemy death, roll a d6 and the creature respawns d6" in a random direction on a result of (8-WT).
     1. If killed in Fast phase, they respawn in the Enemy phase. Respawning consumes their turn that phase.
     2. If killed in Slow phase, they respawn at the end of the phase.
-    3. A respawned enemy does not count as dead for purposes of panic, battlefield finds, first kill, etc.)
+    3. A respawned enemy does not count as dead for purposes of panic or battlefield finds.
 
 | Weapon            | Range | Shots | Damage | Quality           |
 | ----------------- | ----- | ----- | ------ | ----------------- |
