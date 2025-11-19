@@ -57,7 +57,7 @@ If there is no upgrade, add +1 damage to the existing weapon instead. Battlefiel
 ##### Unlocking
 
 * Pay a one-time 15 credit licensing fee. (A Broker in the crew can reduce the cost by 2 credits)
- 
+
 ##### Threat Condition
 
 * Roll one extra time on World Tier Challenge table

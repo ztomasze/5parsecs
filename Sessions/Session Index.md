@@ -53,7 +53,7 @@
 + [[2025-07-30 - Turn 7 - World]]
 + [[2025-08-13 - Turn 7 - Battle]] - Tracking down our big bounty, but interrupted by probers!
 + [[2025-08-13 - Turn 8 - World]]
-+ [[2025-08-20 - Turn 8 - Battle]] - Have to flee [[../Planets/Chaebol 6|Chaebol 6]] as it's invaded by probers.
++ [[2025-08-20 - Turn 8 - Battle]] - Have to flee [[../Planets/Chaebol 6|Chaebol 6]] as it is invaded by probers.
 + [[2025-08-20 - Turn 9 - World]]
 + [[2025-08-27 - Turn 9 - Battle]] - On [[../Planets/Outpost - Gamma 4821|Outpost - Gamma 4821]], we track our big bounty to a dark junkyard.
 + [[2025-08-27 - Turn 10 - World]]
@@ -69,6 +69,10 @@
 + [[2025-10-22 - Turn 15 - World]]
 + [[2025-10-29 - Turn 15 - Battle]] - A job interrupted by a pack of lizard-loving gene renegades hunting the night streets.
 + [[2025-10-29 - Turn 16 - World]]
++ [[2025-11-05 - Turn 16 - Battle]] - On [[../Planets/Cornwell  9|Cornwell  9]], ...
++ [[2025-11-05 - Turn 17 - World]]
++ [[2025-11-12 - Turn 17 - Battle]] - Fighting off a swarm brood invasion!
++ [[2025-11-18 - Turn 18 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

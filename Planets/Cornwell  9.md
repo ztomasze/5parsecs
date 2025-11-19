@@ -8,5 +8,9 @@
 | Patron | Type | Benefit | Notes |
 | ------ | ---- | ------- | ----- |
 
-| Rival | Type | Notes                 | Resolved |
-| ----- | ---- | --------------------- | -------- |
+| Rival | Type | Notes | Resolved |
+| ----- | ---- | ----- | -------- |
+
+**Status**
++ Invaded - [[../Sessions/2025-11-12 - Turn 17 - Battle|2025-11-12 - Turn 17 - Battle]]
++ 

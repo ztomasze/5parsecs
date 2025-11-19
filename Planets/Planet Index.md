@@ -21,3 +21,5 @@ Planets of **Campaign 2**:
 * [[../Planets/Outpost - Gamma 4821|Outpost - Gamma 4821]]
 * [[Provo 9]]
 * [[Vista Prime]]
+* [[Cornwell  9]]
+* 
