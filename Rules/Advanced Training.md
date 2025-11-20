@@ -35,5 +35,4 @@ All trainings cost 15 XP/credits.  A character can only purchase one of these tr
 ##### Quartermaster
 * During Purchase Items, you may pay 3 credits to:
 	* Receive a roll on the Implants, Gun Mods, or Gun Sights subtable.
-	* Purchase the weapon of an enemy you just faced of your choice. Roll 1d6 - 1 it’s destroyed, 2-3 damaged, 4-6 unlocked.
-
+	* Purchase the weapon of an enemy you just faced of your choice. Roll 1d6 - on a 1 it’s destroyed, 2-5 damaged, 6 unlocked.

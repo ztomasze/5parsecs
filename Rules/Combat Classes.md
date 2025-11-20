@@ -58,7 +58,8 @@ Training Benefits
 Feats
 
 - **Geometry** - Your area attacks (from grenades and area weapons) are +1 to hit or +1 radius (your choice).
-- **High Yield** - Your area attacks deal +1 damage, and your Dazzle grenades apply an additional stun.
+- **High Yield** - Your area attacks deal +1 damage, and your Dazzle grenades apply an additional stun. 
+	- Smoke grenade can be thrown as a tear gas grenade, which additional effect: Those in the smoke do not clear Stuns and gain one at the end of their turn.
 - **Homemade Ordnance** - You may use a Frakk Grenade, Dazzle Grenade, or Smoke Grenade (creates a 2” radius area feature) for free each battle.
 - **4D Chess** - You can aim when using an area weapon or throwing grenades. Doing so allows you to target a location you can’t see and to automatically exclude allies from the area.
 

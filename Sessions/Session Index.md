@@ -69,10 +69,12 @@
 + [[2025-10-22 - Turn 15 - World]]
 + [[2025-10-29 - Turn 15 - Battle]] - A job interrupted by a pack of lizard-loving gene renegades hunting the night streets.
 + [[2025-10-29 - Turn 16 - World]]
-+ [[2025-11-05 - Turn 16 - Battle]] - On [[../Planets/Cornwell  9|Cornwell  9]], ...
++ [[2025-11-05 - Turn 16 - Battle]] - On [[../Planets/Cornwell  9|Cornwell  9]], we start our quest in the rainy dark by exploring a downed ship, only to trigger a swarm brood.
 + [[2025-11-05 - Turn 17 - World]]
-+ [[2025-11-12 - Turn 17 - Battle]] - Fighting off a swarm brood invasion!
++ [[2025-11-12 - Turn 17 - Battle]] - Fleeing the swarm brood invasion!
 + [[2025-11-18 - Turn 18 - World]]
++ [[2025-11-19 - Turn 18 - Battle]] - On [[../Planets/Cornwell 5o|Cornwell 5o]], a protection job at the country club, holding off a local militia.
++ [[2025-11-19 - Turn 19 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

@@ -13,4 +13,4 @@
 
 **Status**
 + Invaded - [[../Sessions/2025-11-12 - Turn 17 - Battle|2025-11-12 - Turn 17 - Battle]]
-+ 
++  Brood win!  (Can never return) - [[../Sessions/2025-11-19 - Turn 18 - Battle|2025-11-19 - Turn 18 - Battle]]

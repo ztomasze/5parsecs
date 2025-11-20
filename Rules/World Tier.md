@@ -27,7 +27,7 @@ Also roll (WT-1) times on the **Challenge table** below. Reroll any duplicate re
 
 Melee
 + Blade - Ripper sword - Power Claw
-+ Brutal Melee Weapon - *Suppression Maul* - Power Claw
++ Brutal Melee Weapon - *Suppression Maul* - *Shatter Axe*
 + Glare Sword - *Boarding Saber* - *Shatter Axe*
 
 Pistols
