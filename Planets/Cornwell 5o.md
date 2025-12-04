@@ -10,6 +10,8 @@ A moon of the gas giant, Corwell 5.
 | Patron           | Type        | Benefit | Notes |
 | ---------------- | ----------- | ------- | ----- |
 | Country Club HOA | Private Org | -       |       |
+| BioTech Watchdog | Private Org | -       |       |
 
-| Rival | Type | Notes | Resolved |
-| ----- | ---- | ----- | -------- |
+| Rival      | Type     | Notes | Resolved |
+| ---------- | -------- | ----- | -------- |
+| Gunslinger | Criminal |       |          |

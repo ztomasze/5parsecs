@@ -1,36 +1,27 @@
 ## Current Battle
 
-| #   | Enemy                  | Panic | Speed | CS                                        | Tough                                   | AI  | Weapons        |
-| --- | ---------------------- | ----- | ----- | ----------------------------------------- | --------------------------------------- | --- | -------------- |
-| 4   | **K'Erin Outlaws**     | 0*    | 4"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">4</strong>  | A   | Blast Rifle    |
-| 1   | Lt                     |       |       | <strong style="color: green;">+3</strong> |                                         |     | + Ripper Sword |
-| 3   | Sp                     |       |       | <strong style="color: green;">+2</strong> |                                         |     | Clingfire gun+ |
-| 1   | **Mk II Security Bot** | 0     | 4"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">5</strong>* | G   | Plasma Rifle   |
+| #   | Enemy               | Panic | Speed | CS                                         | Tough                                  | AI  | Weapons                                |
+| --- | ------------------- | ----- | ----- | ------------------------------------------ | -------------------------------------- | --- | -------------------------------------- |
+| 5   | **Gun<br>Slingers** | 1-2   | 4"    | <strong style="color: green;">+2</strong>* | <strong style="color: red;">3</strong> | T   | Colony Rifle                           |
+| 1   | Lt                  |       |       | <strong style="color: green;">+3</strong>  |                                        |     | + Blade                                |
+| 3   | Sp                  |       |       | <strong style="color: green;">+2</strong>  |                                        |     | Hand Flamer                            |
+| 1   | **Secret Agent**    | 0     | 6"    | <strong style="color: green;">+3</strong>  | <strong style="color: red;">4</strong> | A   | Hand Laser, Glare Sword<br>**Luck:** 1 |
 
-K'Erin
-+ **Stubborn:** They ignore the first casualty when making a Morale check.
+**Gunslingers** - **Trick shot:** Any natural 6 when they shoot allows an additional shot against the same target or another target within 2”.
 
-Bot
-+ **Targeting AI:** May fire twice per round at the two closest visible targets. If only one target is visible, only one shot is taken.
-+ **6+ Saving Throw**
+**Secret Agent** -  **Target:** Randomly select a crew member: **Jean** The agent will attempt to move towards and attack them, only firing at other targets if they are in the way or the priority target is not visible. May fire at the priority target, even if it is not the closest.
 
-| Weapon             | Range | Shots | Damage | Quality                     |
-| ------------------ | ----- | ----- | ------ | --------------------------- |
-| **Blade**          | Brawl | -     | 1      | Melee                       |
-| **Ripper sword**   | Brawl | -     | 2      | Melee                       |
-| **Blast rifle**    | 15"   | 1     | 1      | --                          |
-| **Cling fire gun** | 8"    | 2     | 2*     | Focused, Burn               |
-| **Plasma rifle**   | 15"   | 2     | 1      | Focused, Piercing, Overheat |
+| Weapon           | Range | Shots | Damage | Quality                  |
+| ---------------- | ----- | ----- | ------ | ------------------------ |
+| **Blade**        | Brawl | -     | 1      | Melee                    |
+| **Colony rifle** | 15"   | 1     | 0      | --                       |
+| **Hand flamer**  | 8"    | -     | 1      | Area, Burn               |
+| **Hand laser**   | 6"    | 1     | 0      | Pistol, Snap Shot        |
+| **Glare sword**  | Brawl | -     | 1      | Melee, Elegant, Piercing |
 
 #### Battle conditions & special rules
 
-+ **Bitter Struggle:** +1 Morale
-+ **Docs:** +1 Quest rumor
-+ **Goal:** Protect
-	+ VIP character: Reactions 1 / 4” / +0 / 3
-	+ If the VIP spends **a full round within 3” of the center of the table**, you Win. If you achieve this within the first 4 rounds of the game, you earn an **additional 2 credits** in pay.
-+ Watchdog org looking into bio lab research. Escorting a lawyer to deliver a subpoena. They call in their private security. 
-+ 
++ **Goal:** Standoff / Hold the Field
 
 #### Notes / Reminders for next time
 

@@ -75,6 +75,8 @@
 + [[2025-11-18 - Turn 18 - World]]
 + [[2025-11-19 - Turn 18 - Battle]] - On [[../Planets/Cornwell 5o|Cornwell 5o]], a protection job at the country club, holding off a local militia.
 + [[2025-11-19 - Turn 19 - World]]
++ [[2025-12-03 - Turn 19 - Battle]] - An escort job to the a bio facility with an excessive security team.
++ [[2025-12-03 - Turn 20 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
