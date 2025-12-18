@@ -12,6 +12,6 @@ A moon of the gas giant, Corwell 5.
 | Country Club HOA | Private Org | -       |       |
 | BioTech Watchdog | Private Org | -       |       |
 
-| Rival      | Type     | Notes | Resolved |
-| ---------- | -------- | ----- | -------- |
-| Gunslinger | Criminal |       |          |
+| Rival      | Type     | Notes | Resolved                                                                     |
+| ---------- | -------- | ----- | ---------------------------------------------------------------------------- |
+| Gunslinger | Criminal |       | [[../Sessions/2025-12-17 - Turn 20 - Battle\|2025-12-17 - Turn 20 - Battle]] |

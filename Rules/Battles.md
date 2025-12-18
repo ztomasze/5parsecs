@@ -21,7 +21,13 @@ Roll on following table ([[World Tier]] - 1) times. +1 roll if in a Red Zone. Re
 
 ## Battle Round
 
-If we fail to **Seize the Initiative**, no one can go Fast in the first round.
+**Seize the Initiative**:
+
++ *Fail:* No one can go Fast in the first round.
++ *Succeed:* Normal Seize round (only move or action, shots only hit on a 6)
++ *Super Seize* (requires [[Advanced Training|Security Training]]; beat target by +3): Each character rolls a d6 <= reaction to take a normal turn instead of a seize round.
++ *Super-Duper Seize* (natural 12 and beat by +3): As super seize, but each character gets a normal turn (no reaction roll needed).  Can also try for a Superdy-Duperdy Seize.
++ *Superdy-Duperdy Seize* (super-duper seize followed by another natural 12): Automatically win in the mission.  Each character picks one item from the loot table.
 
 ## Battle Events
 
