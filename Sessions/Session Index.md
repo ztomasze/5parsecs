@@ -77,6 +77,8 @@
 + [[2025-11-19 - Turn 19 - World]]
 + [[2025-12-03 - Turn 19 - Battle]] - An escort job to the a bio facility with an excessive security team.
 + [[2025-12-03 - Turn 20 - World]]
++ [[2025-12-17 - Turn 20 - Battle]] - Standoff with gunslinger rivals, protecting our ship.
++ [[2025-12-17 - Turn 21 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
