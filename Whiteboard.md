@@ -22,9 +22,11 @@
 + Our speed: -1 to Speed
 + Salvage mission changes
 	+ Contact spawns: Roll d3 for table row (+1 specialist to row 3)
-	+ Generate rooms  (will talk about this next time)
-		+ Room size
-		+ Number of exits
+	+ Generate rooms.  Roll d6: size - # of additional exits - room size (# of hexes)
+		+ 1/2 - small - 1 exit - d4  - d4+2
+		+ 3/4 - medium - 2 exit - d6+6
+		+ 5/6 - large - 3 exits - d8+12
+	+ Doors - 25% chance of being locked (5%: 7+, 20%: 5+) 
 + **Red zone**
 	+ +1 to Saving Throw
 	+ All Grunts => Lt.

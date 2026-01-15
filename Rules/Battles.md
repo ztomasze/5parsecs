@@ -33,6 +33,18 @@ Roll on following table ([[World Tier]] - 1) times. +1 roll if in a Red Zone. Re
 
 At the end of each round after the first, roll a d6. On a 5+, an event occurs.
 
+## Salvage Missions
 
+Generate rooms on the fly.  (Can override the roll if it doesn't fit or make sense.)
 
+| d6    | Size     | Additional exits | Room size (# of hexes) |
+| ----- | -------- | ---------------- | ---------------------- |
+| 1     | dead-end | 0                | d4+2                   |
+| 2     | small    | 1                | d4+2                   |
+| 3 - 4 | medium   | 2                | d6+6                   |
+| 5 - 6 | large    | 3                | d8+12                  |
 
+Doors - 25% chance of being locked.  Savvy check to unlock.
+
+* 5% (d20:1):  Savvy 7+
+* 20% (d20:5): Savvy 5+
