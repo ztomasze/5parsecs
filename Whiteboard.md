@@ -14,12 +14,13 @@
 + Targeting AI: May fire twice per round at the two closest visible targets. If only one target is Visible, only one shot is taken.
 + **5+ Saving Throw**.
 
-| Weapon               | Range | Shots | Damage | Quality           |
-| -------------------- | ----- | ----- | ------ | ----------------- |
-| **Blade**            | Brawl | -     | 1      | Melee             |
-| **Marksman’s rifle** | 36"   | 1     | 1      | Critical          |
-| **Cling fire gun**   | 8"    | 2     | 1      | Focused, Burn     |
-| **Hyper blaster**    | 20"   | 3     | 1      | Focused, Overheat |
+| Weapon               | Range | Shots | Damage | Quality                 |
+| -------------------- | ----- | ----- | ------ | ----------------------- |
+| **Blade**            | Brawl | -     | 1      | Melee                   |
+| **Power claw**       | Brawl | -     | 3      | Melee, Clumsy, Piercing |
+| **Marksman’s rifle** | 36"   | 1     | 1      | Critical                |
+| **Cling fire gun**   | 8"    | 2     | 1      | Focused, Burn           |
+| **Hyper blaster**    | 20"   | 3     | 1      | Focused, Overheat       |
 
 #### Battle conditions & special rules
 
