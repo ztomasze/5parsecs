@@ -26,6 +26,7 @@
 
 + **Goal:** Eliminate Mk II
 + **Brief engagement:** At the end of each round, roll 2D6. If the roll is equal or below the round number, the game ends *immediately*.
++ **Fog (world):** All shots beyond 8” are -1 to Hit.
 + **Red zone**
 	+ +1 Toughness
 	+ Armor saves
