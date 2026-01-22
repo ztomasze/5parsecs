@@ -82,7 +82,7 @@
 + [[2026-01-07 - Turn 21 - Battle]] - On [[../Planets/Aries 7|Aries 7]], we investigate an alien incident in a past battle site but are ambushed by anarchists. 
 + [[2026-01-07 - Turn 22 - World]]
 + [[2026-01-14 - Turn 22 - Battle]] - Our quest trail leads to an underground scientific facility infested by vent crawlers and security war bots.
-+ [[2026-01-14 - Turn 23 - World]]
++ [[2026-01-21 - Turn 23 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

@@ -1,35 +1,34 @@
 ## Current Battle
 
-| #   | Enemy             | Panic | Speed | CS                                         | Tough                                   | AI  | Weapons              |
-| --- | ----------------- | ----- | ----- | ------------------------------------------ | --------------------------------------- | --- | -------------------- |
-|     | **Vent Crawlers** | 0     | 6"    | <strong style="color: green;">+4</strong>* | <strong style="color: red;">5</strong>* | R   | Claws<br>(Damage +0) |
-|     | **War Bots**      | 0     | 3"    | <strong style="color: green;">+3</strong>* | <strong style="color: red;">4</strong>* | T*  | Hand Laser, Blade    |
-|     | Sp                |       |       | <strong style="color: green;">+2</strong>  |                                         |     | Shell gun            |
+| #   | Enemy                  | Panic | Speed | CS                                        | Tough                                   | AI  | Weapons           |
+| --- | ---------------------- | ----- | ----- | ----------------------------------------- | --------------------------------------- | --- | ----------------- |
+| 4   | **Black Ops Teams**    | 1     | 6"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">7</strong>* | T   | Marksman Rifle    |
+| 1   | Lt.                    |       |       | <strong style="color: green;">+4</strong> |                                         |     | + Blade           |
+| 3   | Sp                     |       |       | <strong style="color: green;">+3</strong> |                                         |     | +2 Cling fire gun |
+| 1   | Lt Sp.                 |       |       | <strong style="color: green;">+4</strong> |                                         |     | + Blade           |
+| 1   | **Mk II Security Bot** |       | 4"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">7</strong>* | G   | Hyper Blaster     |
 
-**Vent Crawlers:** Fate worse than death: If the post-battle Injury roll is death, the character cannot be saved and no rerolls are possible for any reason.  (6+ Saving Throw)
+**Black Ops:** Tough fight: A random survivor gains +1 XP.  **6+ Saving Throw.**
 
-**War Bots:** 4*+ Saving Throw. **Fearless:** Never affected by Morale.
+**Mk II Security Bot:** 
++ Targeting AI: May fire twice per round at the two closest visible targets. If only one target is Visible, only one shot is taken.
++ **5+ Saving Throw**.
 
-| Weapon                  | Range | Shots | Damage | Quality           |
-| ----------------------- | ----- | ----- | ------ | ----------------- |
-| **Blade**               | Brawl | -     | 1      | Melee             |
-| **Shell gun**           | 15"   | -     | 0      | Area              |
-| **Hand laser**          | 6"    | 1     | 0      | Pistol, Snap Shot |
+| Weapon               | Range | Shots | Damage | Quality           |
+| -------------------- | ----- | ----- | ------ | ----------------- |
+| **Blade**            | Brawl | -     | 1      | Melee             |
+| **Marksman’s rifle** | 36"   | 1     | 1      | Critical          |
+| **Cling fire gun**   | 8"    | 2     | 1      | Focused, Burn     |
+| **Hyper blaster**    | 20"   | 3     | 1      | Focused, Overheat |
 
 #### Battle conditions & special rules
 
-+ **Goal:** Salvage / Clear 4 POI & escape
-+ Our speed: -1 to Speed
-+ Salvage mission changes
-	+ Contact spawns: Roll d3 for table row (+1 specialist to row 3)
-	+ Generate rooms.  Roll d6: size - # of additional exits - room size (# of hexes)
-		+ 1/2 - small - 1 exit - d4  - d4+2
-		+ 3/4 - medium - 2 exit - d6+6
-		+ 5/6 - large - 3 exits - d8+12
-	+ Doors - 25% chance of being locked (5%: 7+, 20%: 5+) 
++ **Goal:** Eliminate Mk II
++ **Brief engagement:** At the end of each round, roll 2D6. If the roll is equal or below the round number, the game ends *immediately*.
 + **Red zone**
-	+ +1 to Saving Throw
-	+ All Grunts => Lt.
+	+ +1 Toughness
+	+ Armor saves
+	+ Weapon upgrade
 
 #### Notes / Reminders for next time
 
