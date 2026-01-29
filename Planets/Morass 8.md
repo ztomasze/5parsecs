@@ -9,6 +9,7 @@
 | Patron   | Type        | Benefit | Notes                                |
 | -------- | ----------- | ------- | ------------------------------------ |
 | SolarWeb | Corporation |         | Hired us for Mk II retrieval mission |
+| ?        | Secret Org  | -       | Hired us for Converted mission       |
 
 | Rival      | Type     | Notes | Resolved                                                                     |
 | ---------- | -------- | ----- | ---------------------------------------------------------------------------- |

@@ -83,6 +83,10 @@
 + [[2026-01-07 - Turn 22 - World]]
 + [[2026-01-14 - Turn 22 - Battle]] - Our quest trail leads to an underground scientific facility infested by vent crawlers and security war bots.
 + [[2026-01-21 - Turn 23 - World]]
++ [[2026-01-21 - Turn 23 - Battle]] - On [[../Planets/Morass 8|Morass 8]], a job to acquire a new Mk II security bot from a rival corp. 
++ [[2026-01-21 - Turn 24 - World]]
++ [[2026-01-28 - Turn 24 - Battle]] - An investigation job at the loading docks interrupted by a pack of the Converted.
++ [[2026-01-28 - Turn 25 - World]] 
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
