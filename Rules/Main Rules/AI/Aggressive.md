@@ -10,4 +10,3 @@
 **Will brawl?** If my Brawling is **>=** my target's.
 * Gains a Blade if given no other melee weapon.
 
-**Special Ability:** ***Up close and personal*** - If armed with a non-Pistol gun, that gun gains Snapshot (+1 to hit within 6").

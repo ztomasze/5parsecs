@@ -33,6 +33,17 @@ Roll on following table ([[World Tier]] - 1) times. +1 roll if in a Red Zone. Re
 
 At the end of each round after the first, roll a d6. On a 5+, an event occurs.
 
+## Ship Missions
+
+When the ship is in the board, it has these properties:
+
++ Screen 6+
++ Toughness: N/A (bypassed)
++ Takes 1 point of hull damage per every 10 damage dealt
++ The ship can be targeted from anywhere on the board, but enemies will prefer to attack us instead if possible. 
+	+ Usually a couple enemies will be assigned to always attack the ship.
++ The ship is tall but it generally still has cover: Cover and most obstructions can be shot over if targeting the ship, but they still impose cover.
+
 ## Salvage Missions
 
 Generate rooms on the fly.  (Can override the roll if it doesn't fit or make sense.)

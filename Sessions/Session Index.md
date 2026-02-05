@@ -65,7 +65,7 @@
 + [[2025-10-08 - Turn 13 - World]]
 + [[2025-10-15 - Turn 13 - Battle]] - A job to deliver a package... that leads us into a merc ambush!
 + [[2025-10-15 - Turn 14 - World]]
-+ [[2025-10-22 - Turn 14 - Battle]] - On [[../Planets/Vista Prime|Vista Prime]], a job to run off some punks under the overpass.
++ [[2025-10-22 - Turn 14 - Battle]] - On [[../Planets/Vista Prime|Vista Prime]], a job , Jeanto run off some punks under the overpass.
 + [[2025-10-22 - Turn 15 - World]]
 + [[2025-10-29 - Turn 15 - Battle]] - A job interrupted by a pack of lizard-loving gene renegades hunting the night streets.
 + [[2025-10-29 - Turn 16 - World]]
@@ -87,6 +87,9 @@
 + [[2026-01-21 - Turn 24 - World]]
 + [[2026-01-28 - Turn 24 - Battle]] - An investigation job at the loading docks interrupted by a pack of the Converted.
 + [[2026-01-28 - Turn 25 - World]] 
++ [[2026-02-04 - Turn 25 - Battle]] - Fleeing the converted invasion!
++ [[2026-02-04 - Turn 26 - World]]
++ ... - On [[../Planets/Tau Beta Delta 84|Tau Beta Delta 84]], ...
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)

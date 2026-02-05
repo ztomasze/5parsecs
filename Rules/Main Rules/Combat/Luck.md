@@ -12,7 +12,7 @@ Enemies only apply Luck when they would become a casualty.
 Upon applying a Luck point, that figure can move 1" in any direction as they dive for cover.
 
 #### Recovering Luck
-Once used, Luck points do not automatically recharge. During the Upkeep phase of a campaign turn, roll a d6: On 5-6, regain one luck point. After the roll, you may add to the roll at the cost of 1 XP per point added. You cannot make this roll if you are in sick bay or otherwise unable to participate in crew tasks this turn.
+Once used, Luck points do not automatically recharge. During the Upkeep phase of a campaign turn, roll a d6 for each missing luck point: On 5-6, regain that luck point. After the roll, you may add to the roll at the cost of 1 XP per point added. You cannot make this roll if you are in sick bay or otherwise unable to participate in crew tasks this turn.
 
 #### Luck Maximum
 Characters are limited to a maximum of 1 Luck point, except for Humans, who can have up to 2 Luck.
