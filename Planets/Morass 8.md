@@ -17,5 +17,7 @@
 
 **Invaded!** - [[../Sessions/2026-02-04 - Turn 25 - Battle|2026-02-04 - Turn 25 - Battle]]
 
-(-1 for Red Zone)
++ Turn 26: Making ground: +1 to future rolls
+
+(-1 modifier for Red Zone)
 

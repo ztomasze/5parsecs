@@ -1,30 +1,35 @@
 ## Current Battle
 
-| #   | Enemy              | Panic | Speed | CS                                        | Tough                                  | AI  | Weapons                                     |
-| --- | ------------------ | ----- | ----- | ----------------------------------------- | -------------------------------------- | --- | ------------------------------------------- |
-| 5   | **Unknown Mercs**  | 1-2   | 5"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">5</strong> | T   | Fury Rifle                                  |
-| 2   | Lt.                |       |       | <strong style="color: green;">+3</strong> |                                        |     | + Blade (Power Claw)                        |
-| 4   | Sp                 |       |       | <strong style="color: green;">+2</strong> |                                        |     | +2 Marksman's Rifle                         |
-| 1   | Lt Sp.             |       |       | <strong style="color: green;">+3</strong> |                                        |     | + Blade (Power Claw)                        |
-| 1   | **Bounty Tracker** | 0     | 5"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">6</strong> | A   | Flak Gun, Blade (Power Claw)<br>**Luck:** 1 |
+| #   | Enemy              | Panic | Speed | CS                                        | Tough                                   | AI  | Weapons                                     |
+| --- | ------------------ | ----- | ----- | ----------------------------------------- | --------------------------------------- | --- | ------------------------------------------- |
+| 0   | **Punks**          | 1-3   | 4"    | <strong style="color: green;">+1</strong> | <strong style="color: red;">4</strong>* | A   | Scrap Pistol + Blade                        |
+| 11  | Lt.                |       |       | <strong style="color: green;">+2</strong> |                                         |     | + Blade                                     |
+| 3   | Sp                 |       |       | <strong style="color: green;">+1</strong> |                                         |     | Shotgun                                     |
+| 1   | Lt Sp.             |       |       | <strong style="color: green;">+2</strong> |                                         |     | + Blade                                     |
+| 1   | **K'Erin Warrior** | 0     | 5"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">6</strong>* | A   | Machine Pistol, Ripper Sword<br>**Luck:** 1 |
+
+**ALL:** 6+ Armor Save
+
+Punks
++ **Careless:** You are +1 to Seize the Initiative.
++ **Bad shots:** Their shooting only Hits on a natural 6.
 
 
-| Weapon               | Range | Shots | Damage | Quality                    |
-| -------------------- | ----- | ----- | ------ | -------------------------- |
-| **Blade**            | Brawl | -     | 1      | Melee                      |
-| **Power claw**       | Brawl | -     | 3      | Melee, Clumsy, Piercing    |
-| **Flak gun**         | 8"    | 2     | 1      | Focused, Shrapnel          |
-| **Marksman’s rifle** | 36"   | 1     | 1      | Critical                   |
-| **Fury rifle**       | 20"   | 1     | 2      | Heavy, Piercing, Shockwave |
+| Weapon             | Range | Shots | Damage | Quality         |
+| ------------------ | ----- | ----- | ------ | --------------- |
+| **Blade**          | Brawl | -     | 1      | Melee           |
+| **Scrap pistol**   | 5"    | 1     | 0      | Pistol          |
+| **Shotgun**        | 8"    | 1     | 1      | Shrapnel        |
+| **Ripper sword**   | Brawl | -     | 2      | Melee           |
+| **Machine pistol** | 6"    | 2     | 0      | Pistol, Focused |
 
 #### Battle conditions & special rules
 
-+ **Goal:** Deliver
-+ **Caught off guard:** We all act slow on round 1
-+ +1 Loot
++ **Goal:** Hold the field
++ **Surprise encounter:** Enemies can't act the first round
 + **Red zone**
-	+ Numbers
-	+ Weapons
+	+ Upgrade
+	+ Armor save
 	+ Respawn
 
 Respawn: On enemy death, roll a d6 and the creature respawns d6" in a random direction on a result of (8-WT).
@@ -34,4 +39,5 @@ Respawn: On enemy death, roll a d6 and the creature respawns d6" in a random dir
 
 #### Notes / Reminders for next time
 
-+ roll to recover luck
++ Come up out of the subway system in the middle of their 'hood
++ Given short range and a probable 2-turn start on them, setup in the center with them around the edge?

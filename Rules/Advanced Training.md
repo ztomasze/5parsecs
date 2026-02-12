@@ -4,7 +4,7 @@ All trainings cost 15 XP/credits.  A character can only purchase one of these tr
 * When rolling for a new world during New World Arrival, roll twice and pick one.
 * You automatically succeed any Savvy roll on the Starship Travel events table.
 * Fuel costs for travel to a new world are reduced by 2.
-* Gain +1 to rolls to Flee Invasion in your ship.
+* Gain +2 to rolls to Flee Invasion in your ship.
 
 ##### Mechanic training
 * If your ship is in need of Repairs, you may repair 1d6 Hull Point damage every campaign turn (instead of 1).

@@ -68,10 +68,12 @@ Roll d6 at end of round 3:
 
 1. **Comms Interference:** Each Reaction Roll phase, roll one die less than you normally would. A character not assigned a die will act in the Slow Actions phase.
 2. **Reinforcements:** Grunt, Grunt, Specialist. They spawn on a neutral edge closest to a crew member.
-3. **Significant reinforcements:** Grunt, Lt., Specialist Lt. They spawn on a neutral edge closest to a crew member.
-4. **Count down!** Next round and each afterward, roll d6: Mission ends on a 1, 2, 3...
-5. **Evac!** You must accomplish your mission by the end of round 6. You do not gain the benefits of Holding the Field.
-6. **Elite reinforcements:** Lt., Specialist Lt., Unique. They spawn on the center of the enemy's end.
+3. **Significant reinforcements:** Grunt, Lt., Lt. Specialist. They spawn on a neutral edge closest to a crew member.
+4. **On the back foot.** All characters must go slow next round.
+5. **Chaos!** Roll WT times on the Battle Event table.
+6. **Elite reinforcements:** Lt., Lt. Specialist, Unique. They spawn on the center of the enemy's end.
+7. **Redoubled Effort:** Each enemy figure 1 wound, 2 stuns, or prevent the next stun.
+8. **Explosion!** Each character makes a (2+WT)+ Savvy check against an environmental hazard to gains 1 stun. 
 
 ##### Increased Opposition
 
