@@ -12,12 +12,14 @@
 | ?        | Secret Org  | -       | Hired us for Converted mission                                                                     |
 | ?        | ?           |         | Someone Julie knows - [[../Sessions/2026-02-04 - Turn 25 - Battle\|2026-02-04 - Turn 25 - Battle]] |
 
-| Rival | Type | Notes | Resolved |
-| ----- | ---- | ----- | -------- |
+| Rival | Type             | Notes                        | Resolved                                                                     |
+| ----- | ---------------- | ---------------------------- | ---------------------------------------------------------------------------- |
+
 
 **Invaded!** - [[../Sessions/2026-02-04 - Turn 25 - Battle|2026-02-04 - Turn 25 - Battle]]
 
 + Turn 26: Making ground: +1 to future rolls
++ Turn 27: Lost!
 
 (-1 modifier for Red Zone)
 

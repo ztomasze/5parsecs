@@ -12,11 +12,8 @@ Mining and manufacturing asteroid
 | ------ | ----------- | ------- | -------------------------------------- |
 | ?      | Private Org | -       | Delivery to the market district ambush |
 
-| Rival | Type | Notes | Resolved |
-| ----- | ---- | ----- | -------- |
-| ?     | ?    | event |          |
+| Rival | Type             | Notes                                                        | Resolved                                                                     |
+| ----- | ---------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Punks | Criminal Element | Campaign event -> We (heroically!) attacked them in the park | [[../Sessions/2026-02-18 - Turn 27 - Battle\|2026-02-18 - Turn 27 - Battle]] |
 
-**Invaded!** - [[../Sessions/2026-02-04 - Turn 25 - Battle|2026-02-04 - Turn 25 - Battle]]
-
-(-1 for Red Zone)
-
++ Billie doesn't want to leave (costs 1 story point), unless it's being invaded - [[../Sessions/2026-02-18 - Turn 28 - World|2026-02-18 - Turn 28 - World]]

@@ -89,7 +89,10 @@
 + [[2026-01-28 - Turn 25 - World]] 
 + [[2026-02-04 - Turn 25 - Battle]] - Fleeing the converted invasion!
 + [[2026-02-04 - Turn 26 - World]]
-+ ... - On [[../Planets/Tau Beta Delta 84|Tau Beta Delta 84]], ...
++ [[2026-02-11 - Turn 26 - Battle]] - On [[../Planets/Tau Beta Delta 84|Tau Beta Delta 84]], we're ambushed by bounty-tracking mercs on a simple delivery job.
++ [[2026-02-11 - Turn 27 - World]]
++ [[2026-02-18 - Turn 27 - Battle]] - We hunt down another batch of merc punks who are gunning for us.
++ [[2026-02-18 - Turn 28 - World]]
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
