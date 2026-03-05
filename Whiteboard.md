@@ -6,7 +6,7 @@
 |     | **Glyphid Guard** (Lt.)   | 0     | 5"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">6</strong> (5+) | R   | Claws (Damage 1)                   |
 |     | **Glyphid Mactera** (Sp.) | 0     | 6"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">5</strong>      | T   | Spit                               |
 |     | **Praetorian** (Uniq.)    | 0     | 5"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">7</strong> (4+) | A   | Claws (Damage 3)<br>**Luck:** 1    |
-| 1   | (**Queen**) (Uniq.)       | 0     | 6"    | <strong style="color: green;">+4</strong> | <strong style="color: red;">7</strong>      | G   | ??<br>Armored Shell<br>**Luck:** 2 |
+| 1   | **Queen** (Uniq.)         | 0     | 6"    | <strong style="color: green;">+4</strong> | <strong style="color: red;">7</strong>      | G   | ??<br>Armored Shell<br>**Luck:** 2 |
 
 **Armored Shell:** Take XX damage before shell is broken. Immune to stun and wound until then.
 
@@ -16,16 +16,6 @@
 
 #### Battle conditions & special rules
 
-* Split the party into 2, each with their own Tension
-* 6 points of interest 
-	* Random 3 of them are checks (required to end mission: spawn the exit)
-	* Roll on the normal POI table (adjust as necessary)
-* Room generation - [[Rules/Battles|Battles]]
-* Tension 
-	* Start at 3. 
-	* Start of each round: Roll d6:
-		* \> tension: +2 tension
-		* else: reduce tension by the roll and spawn a contact
 
 Spawning table
 
@@ -43,5 +33,12 @@ XP, Wounds, etc.
 
 #### Notes / Reminders for next time
 
-
-
++ 2 room: Antechamber and main royal chamber with dreadnaught/queen
++ Praetorians in antechamber
++ Wide door between the two rooms
++ Spawning from the hive in royal chamber
+	+ hive has HP (like 50)
+		+ Can melee it - it always rolls a 5
+	+ spawning is weighted, with d6
++ Want to have to kill the queen and then the hive
++ Large targets: Grenades deal double damage; splash damage can both apply to target 
