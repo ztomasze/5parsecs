@@ -16,7 +16,7 @@
 
 #### Battle conditions & special rules
 
-+ Split the party into 2, each with their own Tension
+* Split the party into 2, each with their own Tension
 * 6 points of interest 
 	* Random 3 of them are checks (required to end mission: spawn the exit)
 	* Roll on the normal POI table (adjust as necessary)
@@ -24,7 +24,7 @@
 * Tension 
 	* Start at 3. 
 	* Start of each round: Roll d6:
-		* > tension: +2 tension
+		* \> tension: +2 tension
 		* else: reduce tension by the roll and spawn a contact
 
 Spawning table
@@ -37,7 +37,7 @@ Spawning table
 | 8     | Slasher, Praetorian              |
 
 XP, Wounds, etc.
-+ Gain XP for the first half of mission.  Praetorian does not count as a unique for XP.
++ Gain XP for the first half of the mission.  Praetorian does not count as a unique for XP.
 + Roll for Luck recovery between mission halves.  
 + Do not automatically clear wounds between mission halves, but a med-patch can be spent to remove one.
 
