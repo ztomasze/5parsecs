@@ -2,10 +2,10 @@
 
 | #   | Enemy                     | Panic | Speed | CS                                        | Tough                                       | AI  | Weapons                            |
 | --- | ------------------------- | ----- | ----- | ----------------------------------------- | ------------------------------------------- | --- | ---------------------------------- |
-|     | **Glyphid Slasher**       | 0     | 6"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">5</strong>      | R   | Claws (Damage +1)                  |
-|     | **Glyphid Guard** (Lt.)   | 0     | 5"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">6</strong> (5+) | R   | Claws (Damage +0)                  |
+|     | **Glyphid Slasher**       | 0     | 6"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">5</strong>      | R   | Claws (Damage 2, Pierce)           |
+|     | **Glyphid Guard** (Lt.)   | 0     | 5"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">6</strong> (5+) | R   | Claws (Damage 1)                   |
 |     | **Glyphid Mactera** (Sp.) | 0     | 6"    | <strong style="color: green;">+2</strong> | <strong style="color: red;">5</strong>      | T   | Spit                               |
-|     | **Praetorian** (Uniq.)    | 0     | 5"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">7</strong> (4+) |     | Claws (Damage +2)<br>**Luck:** 1   |
+|     | **Praetorian** (Uniq.)    | 0     | 5"    | <strong style="color: green;">+3</strong> | <strong style="color: red;">7</strong> (4+) | A   | Claws (Damage 3)<br>**Luck:** 1    |
 | 1   | (**Queen**) (Uniq.)       | 0     | 6"    | <strong style="color: green;">+4</strong> | <strong style="color: red;">7</strong>      | G   | ??<br>Armored Shell<br>**Luck:** 2 |
 
 **Armored Shell:** Take XX damage before shell is broken. Immune to stun and wound until then.
