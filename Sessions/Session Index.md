@@ -93,6 +93,10 @@
 + [[2026-02-11 - Turn 27 - World]]
 + [[2026-02-18 - Turn 27 - Battle]] - We hunt down another batch of merc punks who are gunning for us.
 + [[2026-02-18 - Turn 28 - World]]
++ [[2026-02-25 - Turn 28 - Battle]] - Following a quest lead, we face a tight lab space crawling with skulker mercs.
++ [[2026-02-25 - Turn 29 - World]]
++ [[2026-03-04 - Turn 29 - Battle]] - Our quest takes us to a labyrinthine lab filled with glyphid alien crossbreeds.
++ [[2026-03-10 - Turn 30 - Battle]] - Having discovered the entrance to the crossbreed hive, we enter to kill the queen.
 
 
 [Original Google Doc notes](https://docs.google.com/document/d/1LnbAGtpY31iSRNQDCqYWGYz_w75IoBnxtwBvFQoJlb8/edit)
